@@ -85,6 +85,7 @@
       "blox-resume-experience",
       "blox-resume-languages",
       "blox-resume-skills",
+      "blox-resume-visiting",
       "border",
       "border-current",
       "border-dotted",
@@ -551,6 +552,7 @@
       "section-resume-experience",
       "section-resume-languages",
       "section-resume-skills",
+      "section-resume-visiting",
       "service",
       "share-link-email",
       "share-link-facebook",
@@ -564,8 +566,7 @@
       "teaching-advising",
       "top",
       "under-review",
-      "under-review-rr",
-      "workshops-visiting"
+      "under-review-rr"
     ]
   }
 }

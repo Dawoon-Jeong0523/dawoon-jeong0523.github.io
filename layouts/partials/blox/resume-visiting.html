@@ -1,0 +1,41 @@
+{{/* Custom block: Workshops, Schools, and Visiting */}}
+{{/* Renders work-style timeline from author's `visiting` array. */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $author := $block.content.username | default "admin" }}
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+{{ errorf "Could not find author page at `%s`." $person_page_path }}
+{{ end }}
+{{ $person := $person_page.Params }}
+{{ $title := $block.content.title | default "Workshops, Schools, and Visiting" }}
+
+<div class="flex flex-col items-center max-w-prose mx-auto">
+  <div class="flex flex-col lg:gap-x-6 w-100 px-6 sm:px-0">
+    {{ if $person.visiting }}
+    <div class="w-full">
+      <h3 class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">{{ $title }}</h3>
+      <ol class="relative border-s border-gray-200 dark:border-gray-700">
+        {{ range $idx, $item := $person.visiting }}
+        <li class="mb-10 ms-6">
+          <span class="absolute flex items-center justify-center w-6 h-6 bg-primary-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-primary-900">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 256 256" class="w-5 h-5 text-primary-800 dark:text-primary-300">
+              <path d="M232,64H208V56a16,16,0,0,0-16-16H64A16,16,0,0,0,48,56v8H24A16,16,0,0,0,8,80V96a40,40,0,0,0,40,40h3.65A80.13,80.13,0,0,0,120,191.61V216H96a8,8,0,0,0,0,16h64a8,8,0,0,0,0-16H136V191.58c31.94-3.23,58.44-25.64,68.08-55.58H208a40,40,0,0,0,40-40V80A16,16,0,0,0,232,64ZM48,120A24,24,0,0,1,24,96V80H48v32q0,4,.39,8Zm144-8.9c0,35.51-28.49,64.64-63.51,64.9H128a64,64,0,0,1-64-64V56H192ZM232,96a24,24,0,0,1-24,24h-.5a81.81,81.81,0,0,0,.5-8.9V80h24Z"></path>
+            </svg>
+          </span>
+          <h3 class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white text-wrap">{{ $item.position }}</h3>
+          <span class="block mb-2 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">{{ $item.institution }}</span>
+          <time class="block mb-3 text-sm font-normal leading-none text-gray-500 dark:text-gray-300">{{ $item.date }}</time>
+          {{ with $item.summary }}
+          <div class="mb-4 text-base font-normal text-gray-500 dark:text-gray-300 text-wrap prose prose-slate dark:prose-invert">{{ . | $page.RenderString }}</div>
+          {{ end }}
+        </li>
+        {{ end }}
+      </ol>
+    </div>
+    {{ end }}
+  </div>
+</div>

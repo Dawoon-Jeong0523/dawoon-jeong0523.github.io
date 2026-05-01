@@ -10,16 +10,6 @@ design:
 
 # Page sections
 sections:
-  - block: markdown
-    id: workshops-visiting
-    content:
-      title: Workshops, Schools, and Visiting
-      text: |-
-        - **Visiting Scholar** — Santa Fe Institute, 2024, 2025, 2026.
-        - **Economic Complexity, Geography and Innovation Workshop** — Harvard Kennedy School, 2025.
-        - **Economics Fitness & Complexity School** — UNU-MERIT, 2024.
-    design:
-      columns: '1'
   - block: resume-experience
     content:
       username: admin
@@ -28,6 +18,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: resume-visiting
+    content:
+      title: Workshops, Schools, and Visiting
+      username: admin
   - block: resume-skills
     content:
       title: Skills

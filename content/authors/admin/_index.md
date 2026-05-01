@@ -75,6 +75,21 @@ education:
     institution: Korea Advanced Institute of Science and Technology (KAIST)
     date_start: 2009-02-01
     date_end: 2016-08-31
+
+# Workshops, Schools, and Visiting (rendered by custom resume-visiting block)
+visiting:
+  - position: Visiting Scholar
+    institution: Santa Fe Institute
+    date: '2024, 2025, 2026'
+    summary: ''
+  - position: Economic Complexity, Geography and Innovation Workshop
+    institution: Harvard Kennedy School
+    date: '2025'
+    summary: ''
+  - position: Economics Fitness & Complexity School
+    institution: UNU-MERIT
+    date: '2024'
+    summary: ''
     
 work:
   - position: Postdoctoral Scholar, Knowledge Lab, Department of Sociology
