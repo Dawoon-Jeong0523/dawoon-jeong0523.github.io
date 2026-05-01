@@ -5,7 +5,7 @@
     <link>https://dawoon-jeong0523.github.io/project/</link>
       <atom:link href="https://dawoon-jeong0523.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
@@ -13,19 +13,49 @@
     </image>
     
     <item>
-      <title>Role of Manager</title>
-      <link>https://dawoon-jeong0523.github.io/project/linkedin/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://dawoon-jeong0523.github.io/project/linkedin/</guid>
-      <description></description>
+      <title>APTO — Assessing and Predicting Technology Outcomes</title>
+      <link>https://dawoon-jeong0523.github.io/project/apto/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/project/apto/</guid>
+      <description>&lt;p&gt;NSF-funded APTO project (NSF 2404109) on assessing and predicting technology outcomes. We are building data-driven measures and predictive models for technological evolution and translation of knowledge into products.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Researcher&lt;br&gt;
+&lt;strong&gt;Period:&lt;/strong&gt; Sep 2025 – Present&lt;br&gt;
+&lt;strong&gt;Sponsor:&lt;/strong&gt; National Science Foundation (NSF 2404109)&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>US Legal Code</title>
-      <link>https://dawoon-jeong0523.github.io/project/us-legal-code/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://dawoon-jeong0523.github.io/project/us-legal-code/</guid>
-      <description></description>
+      <title>URoL:EN — Toward a Unified Theory of Regulatory Functions and Networks</title>
+      <link>https://dawoon-jeong0523.github.io/project/urol_en/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/project/urol_en/</guid>
+      <description>&lt;p&gt;NSF-funded URoL:EN project (EF-2133863), developing a unified theory of regulatory functions and networks across biological and social systems. As part of this project, we built a century-scale dataset of the U.S. legal code and analyzed the evolution of its complexity (Jeong et al., &lt;em&gt;Scientific Data&lt;/em&gt;, 2026).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Researcher&lt;br&gt;
+&lt;strong&gt;Period:&lt;/strong&gt; Sep 2024 – Aug 2025&lt;br&gt;
+&lt;strong&gt;Sponsor:&lt;/strong&gt; National Science Foundation (EF-2133863)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Co-evolutionary Pattern of Production and Technology for Malaysia</title>
+      <link>https://dawoon-jeong0523.github.io/project/wb_malaysia/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/project/wb_malaysia/</guid>
+      <description>&lt;p&gt;A World Bank Group project examining the co-evolutionary pattern of production and technology for Malaysia, with a focus on identifying opportunities for phase and green transition.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Researcher&lt;br&gt;
+&lt;strong&gt;Sponsor:&lt;/strong&gt; World Bank Group&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Patterns of Economic Diversification via Coevolution of Production and Technology</title>
+      <link>https://dawoon-jeong0523.github.io/project/wb_diversification/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/project/wb_diversification/</guid>
+      <description>&lt;p&gt;A World Bank Group project mapping patterns of economic diversification through the coevolution of production and technology. The work led to the comparative study of Korea and Viet Nam (Aridi et al., &lt;em&gt;World Bank Report&lt;/em&gt;, 2024).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Researcher&lt;br&gt;
+&lt;strong&gt;Sponsor:&lt;/strong&gt; World Bank Group&lt;/p&gt;
+</description>
     </item>
     
   </channel>

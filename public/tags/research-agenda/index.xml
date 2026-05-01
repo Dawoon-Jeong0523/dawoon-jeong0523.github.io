@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Agenda | Dawoon Jeong&#39;s Page</title>
+    <link>https://dawoon-jeong0523.github.io/tags/research-agenda/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/research-agenda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Agenda</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Research Agenda</title>
+      <link>https://dawoon-jeong0523.github.io/tags/research-agenda/</link>
+    </image>
+    
+    <item>
+      <title>At the Frontier: What I&#39;m Working on at the Edge of Innovation Research</title>
+      <link>https://dawoon-jeong0523.github.io/event/snu-temep-2026/</link>
+      <pubDate>Sun, 01 Mar 2026 09:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/event/snu-temep-2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

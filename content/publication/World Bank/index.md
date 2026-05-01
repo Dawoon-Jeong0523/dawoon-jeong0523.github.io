@@ -26,7 +26,7 @@ publishDate: '2024-03-28T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["Report"]
+publication_types: ["report"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *World Bank Report*

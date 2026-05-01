@@ -5,7 +5,7 @@
     <link>https://dawoon-jeong0523.github.io/tags/legal-systems/</link>
       <atom:link href="https://dawoon-jeong0523.github.io/tags/legal-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Legal Systems</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Legal Systems</title>
@@ -15,9 +15,29 @@
     <item>
       <title>A Dataset Showing a Century of Evolution in the Complexity of the United States Legal Code</title>
       <link>https://dawoon-jeong0523.github.io/publication/paper_scidata/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://dawoon-jeong0523.github.io/publication/paper_scidata/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Complexity of the US Law</title>
+      <link>https://dawoon-jeong0523.github.io/publication/wp_uslaw/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/wp_uslaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>URoL:EN — Toward a Unified Theory of Regulatory Functions and Networks</title>
+      <link>https://dawoon-jeong0523.github.io/project/urol_en/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/project/urol_en/</guid>
+      <description>&lt;p&gt;NSF-funded URoL:EN project (EF-2133863), developing a unified theory of regulatory functions and networks across biological and social systems. As part of this project, we built a century-scale dataset of the U.S. legal code and analyzed the evolution of its complexity (Jeong et al., &lt;em&gt;Scientific Data&lt;/em&gt;, 2026).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Researcher&lt;br&gt;
+&lt;strong&gt;Period:&lt;/strong&gt; Sep 2024 – Aug 2025&lt;br&gt;
+&lt;strong&gt;Sponsor:&lt;/strong&gt; National Science Foundation (EF-2133863)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

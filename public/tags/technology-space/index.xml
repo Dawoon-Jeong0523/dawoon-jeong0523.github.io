@@ -5,7 +5,7 @@
     <link>https://dawoon-jeong0523.github.io/tags/technology-space/</link>
       <atom:link href="https://dawoon-jeong0523.github.io/tags/technology-space/index.xml" rel="self" type="application/rss+xml" />
     <description>Technology Space</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Technology Space</title>
@@ -13,11 +13,30 @@
     </image>
     
     <item>
+      <title>Multidimensional Development Pathways to Economic Complexity: Comparative Analysis of South Korea and Vietnam in Product-Technology Space</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_innovstudies/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_innovstudies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diversification through the Application of the Co-evolutionary Framework: Korea and Viet Nam</title>
       <link>https://dawoon-jeong0523.github.io/publication/world-bank/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://dawoon-jeong0523.github.io/publication/world-bank/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of Economic Diversification via Coevolution of Production and Technology</title>
+      <link>https://dawoon-jeong0523.github.io/project/wb_diversification/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/project/wb_diversification/</guid>
+      <description>&lt;p&gt;A World Bank Group project mapping patterns of economic diversification through the coevolution of production and technology. The work led to the comparative study of Korea and Viet Nam (Aridi et al., &lt;em&gt;World Bank Report&lt;/em&gt;, 2024).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Researcher&lt;br&gt;
+&lt;strong&gt;Sponsor:&lt;/strong&gt; World Bank Group&lt;/p&gt;
+</description>
     </item>
     
   </channel>

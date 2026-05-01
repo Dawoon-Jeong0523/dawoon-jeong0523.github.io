@@ -5,7 +5,7 @@
     <link>https://dawoon-jeong0523.github.io/tags/bureaucracy/</link>
       <atom:link href="https://dawoon-jeong0523.github.io/tags/bureaucracy/index.xml" rel="self" type="application/rss+xml" />
     <description>Bureaucracy</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Bureaucracy</title>
@@ -13,11 +13,15 @@
     </image>
     
     <item>
-      <title>US Legal Code</title>
-      <link>https://dawoon-jeong0523.github.io/project/us-legal-code/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://dawoon-jeong0523.github.io/project/us-legal-code/</guid>
-      <description></description>
+      <title>URoL:EN — Toward a Unified Theory of Regulatory Functions and Networks</title>
+      <link>https://dawoon-jeong0523.github.io/project/urol_en/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/project/urol_en/</guid>
+      <description>&lt;p&gt;NSF-funded URoL:EN project (EF-2133863), developing a unified theory of regulatory functions and networks across biological and social systems. As part of this project, we built a century-scale dataset of the U.S. legal code and analyzed the evolution of its complexity (Jeong et al., &lt;em&gt;Scientific Data&lt;/em&gt;, 2026).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Researcher&lt;br&gt;
+&lt;strong&gt;Period:&lt;/strong&gt; Sep 2024 – Aug 2025&lt;br&gt;
+&lt;strong&gt;Sponsor:&lt;/strong&gt; National Science Foundation (EF-2133863)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

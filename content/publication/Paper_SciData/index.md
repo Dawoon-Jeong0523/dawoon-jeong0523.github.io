@@ -1,7 +1,6 @@
 ---
 title: 'A Dataset Showing a Century of Evolution in the Complexity of the United States Legal Code'
 
-# Authors
 authors:
   - Dawoon Jeong
   - James Holehouse
@@ -10,7 +9,6 @@ authors:
   - Geoffrey B. West
   - Hyejin Youn*
 
-# Author notes (optional)
 author_notes:
   - 'Co-First Author'
   - 'Co-First Author, Corresponding Author'
@@ -19,17 +17,15 @@ author_notes:
   - ''
   - 'Corresponding Author'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2026-01-01T00:00:00Z'
+date: '2026-01-06T00:00:00Z'
+publishDate: '2026-01-06T00:00:00Z'
 
-# Publication type.
 publication_types: ["article-journal"]
 
-# Publication name and optional abbreviated publication name.
-publication: In *Scientific Data*
+publication: In *Scientific Data*, 13, 13
 publication_short: In *Scientific Data*
 
-abstract: We present a century-scale dataset capturing the evolution of complexity in the United States legal code. The dataset enables quantitative analysis of how legal systems grow, restructure, and accumulate complexity over time, supporting research on institutional evolution, regulatory dynamics, and the science of law.
+abstract: 'As societies confront increasingly complex regulatory demands in domains such as digital governance, climate policy, and public health, there is a pressing need to understand how legal systems evolve, where they concentrate regulatory attention, and how their institutional architectures shape capacity for adaptation. Yet, the long-term structural dynamics of law remain empirically underexplored. Here, we provide a quantitative analysis of the United States Code (U.S. Code), the primary compilation of federal statutory law in the United States, covering the entire history of the Code from 1926 to 2023. We include statistics related to the structural and linguistic complexity of the Code: word counts, vocabulary statistics, hierarchical organization (titles, chapters, sections, subsections), and cross-references among titles. Additionally, we make the generative AI method utilized to clean the old OCR versions of the U.S. Code publicly available. The dataset offers an empirical foundation for large-scale and long-term interdisciplinary analysis of the growth, reorganization, and internal logic of statutory systems. The dataset is released on GitHub with comprehensive documentation to support reuse across legal studies, data science, complexity research, and institutional analysis.'
 
 tags:
   - US Legal Code
@@ -37,15 +33,13 @@ tags:
   - Institutional Evolution
   - Legal Systems
 
-# Display this page in the Featured widget?
 featured: true
 
 url_pdf: 'https://doi.org/10.1038/s41597-025-06313-w'
 url_dataset: 'https://doi.org/10.6084/m9.figshare.29540039'
 
-# Featured image
 image:
-  caption: ''
+  caption: 'Figure 1, Jeong et al. (2026), Scientific Data'
   focal_point: ''
   preview_only: false
 

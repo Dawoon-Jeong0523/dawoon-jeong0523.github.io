@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science of Science | Dawoon Jeong&#39;s Page</title>
+    <link>https://dawoon-jeong0523.github.io/tags/science-of-science/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/science-of-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Science of Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Science of Science</title>
+      <link>https://dawoon-jeong0523.github.io/tags/science-of-science/</link>
+    </image>
+    
+    <item>
+      <title>APTO — Assessing and Predicting Technology Outcomes</title>
+      <link>https://dawoon-jeong0523.github.io/project/apto/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/project/apto/</guid>
+      <description>&lt;p&gt;NSF-funded APTO project (NSF 2404109) on assessing and predicting technology outcomes. We are building data-driven measures and predictive models for technological evolution and translation of knowledge into products.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Researcher&lt;br&gt;
+&lt;strong&gt;Period:&lt;/strong&gt; Sep 2025 – Present&lt;br&gt;
+&lt;strong&gt;Sponsor:&lt;/strong&gt; National Science Foundation (NSF 2404109)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting Recombinant Innovation and Emergent Functions in Manifold Space</title>
+      <link>https://dawoon-jeong0523.github.io/publication/wp_recombinant/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/wp_recombinant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warning Signals for Long-Term Innovative Potential of Genetic Research under Commercial Pressure</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_epj/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_epj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

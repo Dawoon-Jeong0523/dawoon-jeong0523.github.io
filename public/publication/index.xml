@@ -5,7 +5,7 @@
     <link>https://dawoon-jeong0523.github.io/publication/</link>
       <atom:link href="https://dawoon-jeong0523.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Quantifying organizational routines: A multidimensional analysis of innovation in the photovoltaic industry</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_jee_routines/</link>
+      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_jee_routines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Dataset Showing a Century of Evolution in the Complexity of the United States Legal Code</title>
       <link>https://dawoon-jeong0523.github.io/publication/paper_scidata/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://dawoon-jeong0523.github.io/publication/paper_scidata/</guid>
       <description></description>
     </item>
@@ -29,18 +37,106 @@
     </item>
     
     <item>
-      <title>Revisiting the Routine of a Multidimensional Approach to Heterogeneous Firms: Quantification and Classification of Innovation Routines</title>
-      <link>https://dawoon-jeong0523.github.io/publication/paper_jee_routines/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://dawoon-jeong0523.github.io/publication/paper_jee_routines/</guid>
+      <title>Exploring the Complexity of the Code of Federal Regulations</title>
+      <link>https://dawoon-jeong0523.github.io/publication/wp_cfr/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/wp_cfr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Complexity of the US Law</title>
+      <link>https://dawoon-jeong0523.github.io/publication/wp_uslaw/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/wp_uslaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Idea Timing: Structure as the Hidden Variable in Innovation</title>
+      <link>https://dawoon-jeong0523.github.io/publication/wp_ideatiming/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/wp_ideatiming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Recombinant Innovation and Emergent Functions in Manifold Space</title>
+      <link>https://dawoon-jeong0523.github.io/publication/wp_recombinant/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/wp_recombinant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Laws for Knowledge-to-Product Translation Across Industries</title>
+      <link>https://dawoon-jeong0523.github.io/publication/wp_scaling/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/wp_scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skill–Technology Dependencies and Wage Premium in a Polarized Labor Market</title>
+      <link>https://dawoon-jeong0523.github.io/publication/wp_skilltech/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/wp_skilltech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Evolution of Scientific Knowledge and Social Discourse: A Multi-Layer Network Analysis of AI Technologies</title>
+      <link>https://dawoon-jeong0523.github.io/publication/wp_aidiscourse/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/wp_aidiscourse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping Product Development Trajectories: Product Citation Network</title>
       <link>https://dawoon-jeong0523.github.io/publication/paper_scientometrics/</link>
-      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://dawoon-jeong0523.github.io/publication/paper_scientometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Innovation Networks: A Network-Based Approach to Actor Heterogeneity in National Innovation Systems</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_scientometricsrr/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_scientometricsrr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multidimensional Development Pathways to Economic Complexity: Comparative Analysis of South Korea and Vietnam in Product-Technology Space</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_innovstudies/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_innovstudies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliance on Disruptive Science and the Translation of Science into Technology</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_mgtsci/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_mgtsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Central Embeddedness of General Skills and Their Influence on Occupational Wages</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_hssc_skills/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_hssc_skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warning Signals for Long-Term Innovative Potential of Genetic Research under Commercial Pressure</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_epj/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_epj/</guid>
       <description></description>
     </item>
     

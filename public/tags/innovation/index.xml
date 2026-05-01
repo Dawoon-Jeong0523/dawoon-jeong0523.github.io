@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innovation | Dawoon Jeong&#39;s Page</title>
+    <link>https://dawoon-jeong0523.github.io/tags/innovation/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Innovation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2026 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Innovation</title>
+      <link>https://dawoon-jeong0523.github.io/tags/innovation/</link>
+    </image>
+    
+    <item>
+      <title>At the Frontier: What I&#39;m Working on at the Edge of Innovation Research</title>
+      <link>https://dawoon-jeong0523.github.io/event/snu-temep-2026/</link>
+      <pubDate>Sun, 01 Mar 2026 09:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/event/snu-temep-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APTO — Assessing and Predicting Technology Outcomes</title>
+      <link>https://dawoon-jeong0523.github.io/project/apto/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/project/apto/</guid>
+      <description>&lt;p&gt;NSF-funded APTO project (NSF 2404109) on assessing and predicting technology outcomes. We are building data-driven measures and predictive models for technological evolution and translation of knowledge into products.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Role:&lt;/strong&gt; Researcher&lt;br&gt;
+&lt;strong&gt;Period:&lt;/strong&gt; Sep 2025 – Present&lt;br&gt;
+&lt;strong&gt;Sponsor:&lt;/strong&gt; National Science Foundation (NSF 2404109)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reliance on Disruptive Science and the Translation of Science into Technology</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_mgtsci/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_mgtsci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

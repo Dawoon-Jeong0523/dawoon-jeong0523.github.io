@@ -12,7 +12,8 @@ author_notes:
   - ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-06-01T00:00:00Z'
+date: '2025-08-04T00:00:00Z'
+publishDate: '2025-08-04T00:00:00Z'
 
 # Publication type.
 publication_types: ["article-journal"]
@@ -35,7 +36,7 @@ url_pdf: 'https://doi.org/10.1007/s11192-025-05395-y'
 
 # Featured image
 image:
-  caption: ''
+  caption: 'Figure 1, Jeong & Lee (2025), Scientometrics'
   focal_point: ''
   preview_only: false
 ---

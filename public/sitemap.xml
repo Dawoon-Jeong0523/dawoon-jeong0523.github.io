@@ -2,23 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dawoon-jeong0523.github.io/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://dawoon-jeong0523.github.io/publication_types/article-journal/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/evolutionary-economics/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/firm-heterogeneity/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/innovation-routines/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/photovoltaic-industry/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication_types/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/paper_jee_routines/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/</loc>
+    <lastmod>2026-04-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/event/snu-journal-club-2026/</loc>
+    <lastmod>2026-03-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/event/snu-temep-2026/</loc>
+    <lastmod>2026-03-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/complexity/</loc>
+    <lastmod>2026-03-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/innovation/</loc>
+    <lastmod>2026-03-01T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2026-03-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/research-agenda/</loc>
+    <lastmod>2026-03-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/us-legal-code/</loc>
+    <lastmod>2026-03-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/knowledge-to-product/</loc>
+    <lastmod>2026-02-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/scaling-laws/</loc>
+    <lastmod>2026-02-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/event/uchicago-klab-2026/</loc>
+    <lastmod>2026-02-01T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/publication/paper_scidata/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/institutional-evolution/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/legal-systems/</loc>
+    <lastmod>2026-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/ai/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/publication_types/article-journal/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -26,27 +98,7 @@
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/complexity/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dawoon-jeong0523.github.io/publication/paper_hssc_automation/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/evolutionary-economics/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/firm-heterogeneity/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/innovation-routines/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/institutional-evolution/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,47 +106,215 @@
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/legal-systems/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/publication_types/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/publication/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/publication/paper_jee_routines/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/skills/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <loc>https://dawoon-jeong0523.github.io/event/sfi-flash-2025/</loc>
+    <lastmod>2025-10-01T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/us-legal-code/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <loc>https://dawoon-jeong0523.github.io/project/apto/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/code-of-federal-regulations/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/wp_cfr/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/wp_uslaw/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/idea-timing/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/wp_ideatiming/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/industry-dynamics/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/innovation-networks/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/labor-market-polarization/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/manifold-learning/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication_types/manuscript/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/multi-layer-network/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/wp_recombinant/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/project/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/recombinant-innovation/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/regulatory-complexity/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/wp_scaling/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/science-and-society/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/science-of-science/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/wp_skilltech/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/technology/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/technology-evolution/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/wp_aidiscourse/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/wage-premium/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/working-paper/</loc>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/publication/paper_scientometrics/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/product-citation-network/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/product-development-trajectory/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/product-innovation/</loc>
+    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/actor-heterogeneity/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication_types/article-journal-domestic/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/disruptive-science/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/economic-complexity/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/genetic-research/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/innovation-indicators/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/innovation-network/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/korea/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/paper_scientometricsrr/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/paper_innovstudies/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/national-innovation-system/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/network-centrality/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/occupational-wages/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication_types/preprint/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication_types/preprint-rr/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/product-space/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/paper_mgtsci/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/science-technology-linkage/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/technology-space/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/paper_hssc_skills/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/vietnam/</loc>
+    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/publication/paper_epj/</loc>
     <lastmod>2025-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -106,43 +326,11 @@
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/bureaucracy/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/burning-glass-technologies/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/coordination/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/generative-ai/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/linkedin/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/machine-learning-deep-learning-transformer/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/manager/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/project/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/python-programming-exploratory-data-analysis/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/project/linkedin/</loc>
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -158,10 +346,6 @@
     <lastmod>2025-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dawoon-jeong0523.github.io/project/us-legal-code/</loc>
-    <lastmod>2025-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dawoon-jeong0523.github.io/publication/paper_occupation/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -171,10 +355,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/percolation-theory/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/publication_types/preprint/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -194,8 +374,24 @@
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/economic-complexity/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
+    <loc>https://dawoon-jeong0523.github.io/event/northwestern-jc-2024/</loc>
+    <lastmod>2024-10-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/product-phylogenetic-network/</loc>
+    <lastmod>2024-10-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/bureaucracy/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/project/urol_en/</loc>
+    <lastmod>2024-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/event/scisci-2024/</loc>
+    <lastmod>2024-06-01T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/imitation/</loc>
@@ -207,10 +403,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/path-dependence/</loc>
-    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/publication_types/preprint-rr/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -238,6 +430,10 @@
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://dawoon-jeong0523.github.io/event/kisti-2024/</loc>
+    <lastmod>2024-04-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/diversification/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -250,15 +446,7 @@
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/product-space/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://dawoon-jeong0523.github.io/publication_types/report/</loc>
-    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://dawoon-jeong0523.github.io/tags/technology-space/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -278,12 +466,24 @@
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://dawoon-jeong0523.github.io/project/wb_malaysia/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://dawoon-jeong0523.github.io/publication/paper_ieee/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/event/kisti-2023/</loc>
+    <lastmod>2023-08-01T09:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/tags/product-evolution/</loc>
+    <lastmod>2023-08-01T09:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/ai-ethics/</loc>
@@ -316,6 +516,10 @@
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/tags/institutional-phylogenetic-tree/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://dawoon-jeong0523.github.io/project/wb_diversification/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://dawoon-jeong0523.github.io/</loc>

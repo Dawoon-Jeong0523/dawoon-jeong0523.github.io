@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/cv.pdf
+        url: uploads/CV.pdf
     design:
       css_class: dark
       background:
@@ -53,25 +53,82 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: reviewed-articles
     content:
-      title: Publications
+      title: Reviewed Articles
       text: ""
       filters:
         folders:
           - publication
+        publication_type: 'article-journal'
         exclude_featured: false
     design:
       view: citation
-#  - block: collection
-#    id: talks
-#    content:
-#      title: Recent & Upcoming Talks
-#      filters:
-#        folders:
-#          - event
-#    design:
-#      view: article-grid
-#      columns: 1
+  - block: collection
+    id: reports
+    content:
+      title: Reports
+      text: ""
+      filters:
+        folders:
+          - publication
+        publication_type: 'report'
+    design:
+      view: citation
+  - block: collection
+    id: reviewed-articles-domestic
+    content:
+      title: Reviewed Articles (Domestic)
+      text: ""
+      filters:
+        folders:
+          - publication
+        publication_type: 'article-journal-domestic'
+    design:
+      view: citation
+  - block: collection
+    id: under-review
+    content:
+      title: Manuscripts Under Review
+      text: ""
+      filters:
+        folders:
+          - publication
+        publication_type: 'preprint'
+    design:
+      view: citation
+  - block: collection
+    id: under-review-rr
+    content:
+      title: Manuscripts Under Review (R&R)
+      text: ""
+      filters:
+        folders:
+          - publication
+        publication_type: 'preprint (R&R)'
+    design:
+      view: citation
+  - block: collection
+    id: working-papers
+    content:
+      title: Working Papers
+      text: ""
+      filters:
+        folders:
+          - publication
+        publication_type: 'manuscript'
+    design:
+      view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
 #  - block: collection
 #    id: news
 #    content:
