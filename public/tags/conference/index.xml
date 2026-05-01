@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference | Dawoon Jeong&#39;s Page</title>
+    <link>https://dawoon-jeong0523.github.io/tags/conference/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 09:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Conference</title>
+      <link>https://dawoon-jeong0523.github.io/tags/conference/</link>
+    </image>
+    
+    <item>
+      <title>Evolution of the Legal System</title>
+      <link>https://dawoon-jeong0523.github.io/event/sfi-flash-2025/</link>
+      <pubDate>Wed, 01 Oct 2025 09:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/event/sfi-flash-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Pattern for Product Innovation: Learning on Product Phylogenetic Network</title>
+      <link>https://dawoon-jeong0523.github.io/event/scisci-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 09:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/event/scisci-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
