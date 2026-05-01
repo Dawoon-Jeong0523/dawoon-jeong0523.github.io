@@ -12,14 +12,15 @@ address:
 summary: 'Journal Club presentation on the U.S. legal code complexity dataset.'
 abstract: 'I present our recent Scientific Data paper on a century-scale dataset of U.S. legal code complexity.'
 
-date: '2026-03-01T09:00:00Z'
+date: '2026-01-10T09:00:00Z'
 
-publishDate: '2026-03-01T00:00:00Z'
+publishDate: '2026-01-10T00:00:00Z'
 
 authors:
   - admin
 
 tags:
+  - invited
   - US Legal Code
   - Complexity
 

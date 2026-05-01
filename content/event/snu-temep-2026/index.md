@@ -12,14 +12,15 @@ address:
 summary: 'Invited seminar at the TEMEP, Seoul National University.'
 abstract: 'An overview of my current research agenda at the frontier of innovation studies.'
 
-date: '2026-03-01T09:00:00Z'
+date: '2026-01-15T09:00:00Z'
 
-publishDate: '2026-03-01T00:00:00Z'
+publishDate: '2026-01-15T00:00:00Z'
 
 authors:
   - admin
 
 tags:
+  - invited
   - Innovation
   - Research Agenda
 

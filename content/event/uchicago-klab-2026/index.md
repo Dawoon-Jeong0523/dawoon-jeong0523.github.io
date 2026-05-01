@@ -21,6 +21,7 @@ authors:
   - admin
 
 tags:
+  - invited
   - Scaling Laws
   - Knowledge-to-Product
 

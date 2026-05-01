@@ -26,6 +26,7 @@ authors:
   - Joomin Lee
 
 tags:
+  - conference
   - Product Phylogenetic Network
   - Product Innovation
 

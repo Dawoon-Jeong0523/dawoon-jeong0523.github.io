@@ -21,6 +21,7 @@ authors:
   - admin
 
 tags:
+  - invited
   - Product Phylogenetic Network
 
 featured: false

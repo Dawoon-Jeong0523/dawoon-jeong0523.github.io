@@ -20,6 +20,7 @@ authors:
   - admin
 
 tags:
+  - invited
   - Technology Evolution
   - Product Evolution
 

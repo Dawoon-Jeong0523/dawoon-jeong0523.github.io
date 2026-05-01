@@ -22,6 +22,7 @@ authors:
   - admin
 
 tags:
+  - conference
   - US Legal Code
   - Complexity
 

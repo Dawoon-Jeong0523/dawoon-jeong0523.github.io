@@ -108,24 +108,37 @@ sections:
         publication_type: 'preprint (R&R)'
     design:
       view: citation
+# Working Papers section hidden by request — uncomment to restore
+#  - block: collection
+#    id: working-papers
+#    content:
+#      title: Working Papers
+#      text: ""
+#      filters:
+#        folders:
+#          - publication
+#        publication_type: 'manuscript'
+#    design:
+#      view: citation
   - block: collection
-    id: working-papers
+    id: conference-talks
     content:
-      title: Working Papers
-      text: ""
-      filters:
-        folders:
-          - publication
-        publication_type: 'manuscript'
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
+      title: Conference Presentations
       filters:
         folders:
           - event
+        tag: 'conference'
+    design:
+      view: article-grid
+      columns: 1
+  - block: collection
+    id: invited-talks
+    content:
+      title: Invited Talks & Seminars
+      filters:
+        folders:
+          - event
+        tag: 'invited'
     design:
       view: article-grid
       columns: 1

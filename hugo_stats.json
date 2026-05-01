@@ -313,6 +313,7 @@
       "md:flex-row",
       "md:flex-shrink-0",
       "md:grid",
+      "md:grid-cols-1",
       "md:grid-cols-2",
       "md:grid-cols-3",
       "md:grid-cols-4",
@@ -364,7 +365,6 @@
       "network-icon",
       "no-prose",
       "no-underline",
-      "object-contain",
       "object-cover",
       "object-fill",
       "opacity-0",
@@ -529,7 +529,9 @@
     ],
     "ids": [
       "about-me",
+      "conference-talks",
       "hide-button",
+      "invited-talks",
       "moon",
       "nav-menu",
       "nav-toggle",
@@ -558,13 +560,11 @@
       "show-button",
       "site-header",
       "sun",
-      "talks",
       "teaching",
       "teaching-advising",
       "top",
       "under-review",
-      "under-review-rr",
-      "working-papers"
+      "under-review-rr"
     ]
   }
 }
