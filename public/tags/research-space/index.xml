@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Space | Dawoon Jeong&#39;s Page</title>
+    <link>http://localhost:1313/tags/research-space/</link>
+      <atom:link href="http://localhost:1313/tags/research-space/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Space</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Research Space</title>
+      <link>http://localhost:1313/tags/research-space/</link>
+    </image>
+    
+    <item>
+      <title>An Analysis of Global Research Space for Smart Manufacturing Based on Academic Literature</title>
+      <link>http://localhost:1313/publication/paper_jic/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_jic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

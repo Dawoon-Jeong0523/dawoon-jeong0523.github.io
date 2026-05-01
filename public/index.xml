@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dawoon Jeong&#39;s Page</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dawoon Jeong&#39;s Page</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Dawoon Jeong&#39;s Page</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advanced Data Mining with Artificial Intelligence (BAT51201)</title>
+      <link>http://localhost:1313/teaching/advanced-data-mining-with-artificial-intelligence-bat51201-unist/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/advanced-data-mining-with-artificial-intelligence-bat51201-unist/</guid>
+      <description>&lt;p&gt;This course is an introductory graduate-level course on data mining and artificial intelligence, specialized for the students majoring in management.
+In this course, students will learn the most basic and core deep learning techniques and examine how deep learning techniques can improve business
+problem-solving and decision-making. Moreover, the students will study practical examples to place data analysis in business context. In specific, this
+course covers the concepts and applications of data preprocessing, regression analysis, clustering, neural networks, CNN, and RNN. To achieve these
+objectives, this course uses a combination of lectures, in-class exercises, case studies, class discussions, assignment, exam (&lt;a href=&#34;https://github.com/Dawoon-Jeong0523/Lecture_UNIST_2024_Fall&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Code Link&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analytics Programming with Application (BAT563001)</title>
+      <link>http://localhost:1313/teaching/analytics-programming-with-application-bat563001-unist/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/analytics-programming-with-application-bat563001-unist/</guid>
+      <description>&lt;p&gt;This course aims to equip students with the fundamental skills required for data analytics using Python. Emphasis will be placed on understanding and applying Python programming concepts and techniques to manipulate, analyze, and visualize data (&lt;a href=&#34;https://github.com/Dawoon-Jeong0523/Lecture_UNIST_2024_Spring_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Code Link&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Role of Manager</title>
+      <link>http://localhost:1313/project/linkedin/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/linkedin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Mining (BAT54201)</title>
+      <link>http://localhost:1313/teaching/text-mining-bat54201-unist/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/text-mining-bat54201-unist/</guid>
+      <description>&lt;p&gt;This course aims to equip students with the fundamental skills required for NLP using Python. Emphasis will be placed on understanding and applying Python programming concepts and techniques to manipulate, analyze, and visualize text data  (&lt;a href=&#34;https://github.com/Dawoon-Jeong0523/Lecture_UNIST_2024_Spring_2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Code Link&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>US Legal Code</title>
+      <link>http://localhost:1313/project/us-legal-code/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/us-legal-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation Will Set Occupational Mobility Free: Structural Changes in the Occupation Network</title>
+      <link>http://localhost:1313/publication/paper_occupation/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_occupation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Analysis of Global Research Space for Smart Manufacturing Based on Academic Literature</title>
+      <link>http://localhost:1313/publication/paper_jic/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_jic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from Rivals: Diversification Paths from Countries with Similar Export Structures</title>
+      <link>http://localhost:1313/publication/paper_imitation/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_imitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary mechanism for diversity dynamics in technology using a phylogenetic tree approach: directional suggestions for photovoltaic technology</title>
+      <link>http://localhost:1313/publication/paper_icc/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_icc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversification through the Application of the Co-evolutionary Framework: Korea and Viet Nam</title>
+      <link>http://localhost:1313/publication/world-bank/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/world-bank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where and how does a product evolve? Product innovation pattern in product lineage</title>
+      <link>http://localhost:1313/publication/paper_technovation/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_technovation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping the evolutionary pattern of mobile products: a phylogenetic approach</title>
+      <link>http://localhost:1313/publication/paper_ieee/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_ieee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring ethics level of technological topics using phylogenetic tree</title>
+      <link>http://localhost:1313/publication/paper_tasm/</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_tasm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drivers of institutional evolution: phylogenetic inertia and ecological pressure</title>
+      <link>http://localhost:1313/publication/paper_jee/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_jee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of evolution patterns and path dependences of the mid- to long-term strategies in the S&amp;T field with qualitative and quantitative findings</title>
+      <link>http://localhost:1313/publication/paper_kci/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_kci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

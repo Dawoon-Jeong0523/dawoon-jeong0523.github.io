@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Network Analysis | Dawoon Jeong&#39;s Page</title>
+    <link>http://localhost:1313/tags/text-network-analysis/</link>
+      <atom:link href="http://localhost:1313/tags/text-network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Text Network Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Text Network Analysis</title>
+      <link>http://localhost:1313/tags/text-network-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of evolution patterns and path dependences of the mid- to long-term strategies in the S&amp;T field with qualitative and quantitative findings</title>
+      <link>http://localhost:1313/publication/paper_kci/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paper_kci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning, Deep Learning, Transformer | Dawoon Jeong&#39;s Page</title>
+    <link>http://localhost:1313/tags/machine-learning-deep-learning-transformer/</link>
+      <atom:link href="http://localhost:1313/tags/machine-learning-deep-learning-transformer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning, Deep Learning, Transformer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Machine Learning, Deep Learning, Transformer</title>
+      <link>http://localhost:1313/tags/machine-learning-deep-learning-transformer/</link>
+    </image>
+    
+    <item>
+      <title>Advanced Data Mining with Artificial Intelligence (BAT51201)</title>
+      <link>http://localhost:1313/teaching/advanced-data-mining-with-artificial-intelligence-bat51201-unist/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/advanced-data-mining-with-artificial-intelligence-bat51201-unist/</guid>
+      <description>&lt;p&gt;This course is an introductory graduate-level course on data mining and artificial intelligence, specialized for the students majoring in management.
+In this course, students will learn the most basic and core deep learning techniques and examine how deep learning techniques can improve business
+problem-solving and decision-making. Moreover, the students will study practical examples to place data analysis in business context. In specific, this
+course covers the concepts and applications of data preprocessing, regression analysis, clustering, neural networks, CNN, and RNN. To achieve these
+objectives, this course uses a combination of lectures, in-class exercises, case studies, class discussions, assignment, exam (&lt;a href=&#34;https://github.com/Dawoon-Jeong0523/Lecture_UNIST_2024_Fall&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Code Link&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
