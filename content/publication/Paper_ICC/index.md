@@ -25,7 +25,7 @@ publishDate: '2024-05-21T00:00:00Z'
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Industrial and Corporate Change*
+publication: In *Industrial and Corporate Change*, 34(1), 53-78
 publication_short: In *Industrial and Corporate Change*
 
 abstract: This study investigates the dynamics of diversity within photovoltaic technology by considering the spatial information of technological change. We introduce a phylogenetic tree methodology using an evolutionary perspective for validation at the level of technology genes and functional modules. Our findings show that the photovoltaic technology phylogenetic tree fully describes the technological and industrial histories of photovoltaics. Furthermore, the results imply that diversity is necessary for the evolutionary mechanism to operate and technology integration is the correct direction to pursue.
@@ -43,7 +43,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://academic.oup.com/icc/advance-article-abstract/doi/10.1093/icc/dtae020/7678988?redirectedFrom=PDF&login=true'
+url_pdf: 'https://doi.org/10.1093/icc/dtae020'
 #url_code: 'https://github.com/Dawoon-Jeong0523/Product-Science/blob/main/Product_Lineage_Life_Cycle.ipynb'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''

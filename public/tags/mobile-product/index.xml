@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile Product | Dawoon Jeong&#39;s Page</title>
-    <link>http://localhost:1313/tags/mobile-product/</link>
-      <atom:link href="http://localhost:1313/tags/mobile-product/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dawoon-jeong0523.github.io/tags/mobile-product/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/mobile-product/index.xml" rel="self" type="application/rss+xml" />
     <description>Mobile Product</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Mobile Product</title>
-      <link>http://localhost:1313/tags/mobile-product/</link>
+      <link>https://dawoon-jeong0523.github.io/tags/mobile-product/</link>
     </image>
     
     <item>
       <title>Where and how does a product evolve? Product innovation pattern in product lineage</title>
-      <link>http://localhost:1313/publication/paper_technovation/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_technovation/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_technovation/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_technovation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping the evolutionary pattern of mobile products: a phylogenetic approach</title>
-      <link>http://localhost:1313/publication/paper_ieee/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_ieee/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_ieee/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_ieee/</guid>
       <description></description>
     </item>
     

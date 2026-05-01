@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Citation Network | Dawoon Jeong&#39;s Page</title>
+    <link>https://dawoon-jeong0523.github.io/tags/product-citation-network/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/product-citation-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Product Citation Network</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Product Citation Network</title>
+      <link>https://dawoon-jeong0523.github.io/tags/product-citation-network/</link>
+    </image>
+    
+    <item>
+      <title>Mapping Product Development Trajectories: Product Citation Network</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_scientometrics/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_scientometrics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

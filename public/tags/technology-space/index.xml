@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Space | Dawoon Jeong&#39;s Page</title>
-    <link>http://localhost:1313/tags/technology-space/</link>
-      <atom:link href="http://localhost:1313/tags/technology-space/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dawoon-jeong0523.github.io/tags/technology-space/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/technology-space/index.xml" rel="self" type="application/rss+xml" />
     <description>Technology Space</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Technology Space</title>
-      <link>http://localhost:1313/tags/technology-space/</link>
+      <link>https://dawoon-jeong0523.github.io/tags/technology-space/</link>
     </image>
     
     <item>
       <title>Diversification through the Application of the Co-evolutionary Framework: Korea and Viet Nam</title>
-      <link>http://localhost:1313/publication/world-bank/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/world-bank/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/world-bank/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/world-bank/</guid>
       <description></description>
     </item>
     

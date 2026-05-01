@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python Programming, Exploratory Data Analysis | Dawoon Jeong&#39;s Page</title>
-    <link>http://localhost:1313/tags/python-programming-exploratory-data-analysis/</link>
-      <atom:link href="http://localhost:1313/tags/python-programming-exploratory-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dawoon-jeong0523.github.io/tags/python-programming-exploratory-data-analysis/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/python-programming-exploratory-data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Python Programming, Exploratory Data Analysis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Python Programming, Exploratory Data Analysis</title>
-      <link>http://localhost:1313/tags/python-programming-exploratory-data-analysis/</link>
+      <link>https://dawoon-jeong0523.github.io/tags/python-programming-exploratory-data-analysis/</link>
     </image>
     
     <item>
       <title>Analytics Programming with Application (BAT563001)</title>
-      <link>http://localhost:1313/teaching/analytics-programming-with-application-bat563001-unist/</link>
+      <link>https://dawoon-jeong0523.github.io/teaching/analytics-programming-with-application-bat563001-unist/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/analytics-programming-with-application-bat563001-unist/</guid>
+      <guid>https://dawoon-jeong0523.github.io/teaching/analytics-programming-with-application-bat563001-unist/</guid>
       <description>&lt;p&gt;This course aims to equip students with the fundamental skills required for data analytics using Python. Emphasis will be placed on understanding and applying Python programming concepts and techniques to manipulate, analyze, and visualize data (&lt;a href=&#34;https://github.com/Dawoon-Jeong0523/Lecture_UNIST_2024_Spring_1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Code Link&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skill Automation | Dawoon Jeong&#39;s Page</title>
-    <link>http://localhost:1313/tags/skill-automation/</link>
-      <atom:link href="http://localhost:1313/tags/skill-automation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dawoon-jeong0523.github.io/tags/skill-automation/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/skill-automation/index.xml" rel="self" type="application/rss+xml" />
     <description>Skill Automation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Skill Automation</title>
-      <link>http://localhost:1313/tags/skill-automation/</link>
+      <link>https://dawoon-jeong0523.github.io/tags/skill-automation/</link>
     </image>
     
     <item>
       <title>Automation Will Set Occupational Mobility Free: Structural Changes in the Occupation Network</title>
-      <link>http://localhost:1313/publication/paper_occupation/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_occupation/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_occupation/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_occupation/</guid>
       <description></description>
     </item>
     

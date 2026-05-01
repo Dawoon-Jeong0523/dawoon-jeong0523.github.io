@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Kellogg School of Management, Northwestern University
-    url: https://www.nico.northwestern.edu/
+  - name: Knowledge Lab, Department of Sociology, The University of Chicago
+    url: https://knowledgelab.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:dawoon.jung@kellogg.northwestern.edu'
+    url: 'mailto:jdwoon0523@uchicago.edu'
     label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
@@ -48,10 +48,11 @@ profiles:
 
 interests:
   - Computational social science
-  - Product innovation
   - Science of science
+  - Complex systems
+  - Innovation
   - Network science
-  - Economic complexity
+  - Technology and product evolution
 
 education:
   - area: PhD in Engineering
@@ -59,7 +60,7 @@ education:
     date_start: 2020-03-01
     date_end: 2024-02-28
     summary: |
-      Thesis on _A Study on Generalized Evolutionary Patterns of Product: Learning on Mobile Product Phylogenetic Network_. Supervised by [Prof Jeong-Dong Lee].
+      Thesis on _A Study on Generalized Evolutionary Patterns of Product: Learning on Mobile Product Phylogenetic Network_. Supervised by Prof. Jeong-Dong Lee. Committee: Jeong-Dong Lee, Jongsu Lee, Donghyun Oh, Junghye Lee, Yoonmo Koo.
     button:
       text: 'Read Thesis'
       url: 'https://s-space.snu.ac.kr/bitstream/10371/209579/1/000000181788.pdf'
@@ -68,36 +69,46 @@ education:
     date_start: 2018-03-01
     date_end: 2020-02-28
     summary: |
-      Thesis on _Technological Change Speed in Korea Mobile Industry by using Hedonic Price Analysis_. Supervised by [Prof Jeong-Dong Lee].
+      Supervised by Prof. Jeong-Dong Lee.
 
   - area: BS in Physics
     institution: Korea Advanced Institute of Science and Technology (KAIST)
     date_start: 2009-02-01
     date_end: 2016-08-31
     
-#work:
-# - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-01-01
-#    date_end: ''
-#    summary: |2-
-#      Responsibilities include:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
-#    company_name: X
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      Responsibilities include:
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Postdoctoral Scholar, Knowledge Lab, Department of Sociology
+    company_name: The University of Chicago
+    company_url: 'https://knowledgelab.org/'
+    company_logo: ''
+    date_start: 2025-09-01
+    date_end: ''
+    summary: |
+      Advisor: James Evans.
+  - position: Postdoctoral Fellow, Management & Organization, Kellogg School of Management
+    company_name: Northwestern University
+    company_url: 'https://www.kellogg.northwestern.edu/'
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: 2025-08-31
+    summary: |
+      Affiliated with the Northwestern Institute on Complex Systems (NICO). Advisor: Hyejin Youn.
+  - position: Postdoctoral Fellow, Engineering Research Institute
+    company_name: Seoul National University
+    company_url: 'https://eng.snu.ac.kr/'
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: 2024-08-31
+    summary: |
+      Advisor: Jeong-Dong Lee.
+  - position: Adjunct Professor (concurrent)
+    company_name: Ulsan National Institute of Science and Technology (UNIST)
+    company_url: 'https://www.unist.ac.kr/'
+    company_logo: ''
+    date_start: 2024-02-01
+    date_end: 2025-02-28
+    summary: |
+      Part-time concurrent appointment.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -106,11 +117,27 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: code-bracket
-      - name: Machine Learning
+      - name: PyTorch
         description: ''
         percent: 80
+        icon: chart-bar
+      - name: R
+        description: ''
+        percent: 70
+        icon: code-bracket
+      - name: Git
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: LaTeX
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: CosmoGraph
+        description: ''
+        percent: 70
         icon: chart-bar
 #      - name: SQL
 #        description: ''
@@ -181,5 +208,5 @@ awards:
 
 ## About Me
 
-Dawoon Jeong is a postdoctoral fellow at the Kellogg School of Management, Northwestern University, and is also affiliated with the Northwestern Institute on Complex Systems (NICO). He is supervised by Professor Hyejin Youn. His research interests include computational social science, product innovation, the science of science, network science, and economic complexity
+Dawoon Jeong is a Postdoctoral Scholar at the Knowledge Lab in the Department of Sociology, The University of Chicago, advised by Professor James Evans. He studies the evolution of sciences, technologies, products, and institutions using computational social science, network science, and AI. His work develops data-driven measures of complexity and evolutionary structure (e.g., phylogeny/lineage, embeddings) and applies them to innovation, science of science, and legal/organizational systems.
 

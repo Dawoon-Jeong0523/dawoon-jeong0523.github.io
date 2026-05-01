@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technology Diversity | Dawoon Jeong&#39;s Page</title>
-    <link>http://localhost:1313/tags/technology-diversity/</link>
-      <atom:link href="http://localhost:1313/tags/technology-diversity/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dawoon-jeong0523.github.io/tags/technology-diversity/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/technology-diversity/index.xml" rel="self" type="application/rss+xml" />
     <description>Technology Diversity</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Technology Diversity</title>
-      <link>http://localhost:1313/tags/technology-diversity/</link>
+      <link>https://dawoon-jeong0523.github.io/tags/technology-diversity/</link>
     </image>
     
     <item>
       <title>Evolutionary mechanism for diversity dynamics in technology using a phylogenetic tree approach: directional suggestions for photovoltaic technology</title>
-      <link>http://localhost:1313/publication/paper_icc/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_icc/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_icc/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_icc/</guid>
       <description></description>
     </item>
     

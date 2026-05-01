@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text Mining, Visualization, Embedding | Dawoon Jeong&#39;s Page</title>
-    <link>http://localhost:1313/tags/text-mining-visualization-embedding/</link>
-      <atom:link href="http://localhost:1313/tags/text-mining-visualization-embedding/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dawoon-jeong0523.github.io/tags/text-mining-visualization-embedding/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/text-mining-visualization-embedding/index.xml" rel="self" type="application/rss+xml" />
     <description>Text Mining, Visualization, Embedding</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Text Mining, Visualization, Embedding</title>
-      <link>http://localhost:1313/tags/text-mining-visualization-embedding/</link>
+      <link>https://dawoon-jeong0523.github.io/tags/text-mining-visualization-embedding/</link>
     </image>
     
     <item>
       <title>Text Mining (BAT54201)</title>
-      <link>http://localhost:1313/teaching/text-mining-bat54201-unist/</link>
+      <link>https://dawoon-jeong0523.github.io/teaching/text-mining-bat54201-unist/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/text-mining-bat54201-unist/</guid>
+      <guid>https://dawoon-jeong0523.github.io/teaching/text-mining-bat54201-unist/</guid>
       <description>&lt;p&gt;This course aims to equip students with the fundamental skills required for NLP using Python. Emphasis will be placed on understanding and applying Python programming concepts and techniques to manipulate, analyze, and visualize text data  (&lt;a href=&#34;https://github.com/Dawoon-Jeong0523/Lecture_UNIST_2024_Spring_2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Code Link&lt;/a&gt;).&lt;/p&gt;
 </description>
     </item>

@@ -2,93 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Dawoon Jeong&#39;s Page</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dawoon-jeong0523.github.io/publication/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/</link>
     </image>
     
     <item>
+      <title>A Dataset Showing a Century of Evolution in the Complexity of the United States Legal Code</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_scidata/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_scidata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting Pathways of Automation: Routine Task Substitution vs. AI Complementarity</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_hssc_automation/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_hssc_automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Routine of a Multidimensional Approach to Heterogeneous Firms: Quantification and Classification of Innovation Routines</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_jee_routines/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_jee_routines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Product Development Trajectories: Product Citation Network</title>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_scientometrics/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_scientometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automation Will Set Occupational Mobility Free: Structural Changes in the Occupation Network</title>
-      <link>http://localhost:1313/publication/paper_occupation/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_occupation/</link>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_occupation/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_occupation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Analysis of Global Research Space for Smart Manufacturing Based on Academic Literature</title>
-      <link>http://localhost:1313/publication/paper_jic/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_jic/</link>
       <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_jic/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_jic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning from Rivals: Diversification Paths from Countries with Similar Export Structures</title>
-      <link>http://localhost:1313/publication/paper_imitation/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_imitation/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_imitation/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_imitation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary mechanism for diversity dynamics in technology using a phylogenetic tree approach: directional suggestions for photovoltaic technology</title>
-      <link>http://localhost:1313/publication/paper_icc/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_icc/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_icc/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_icc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diversification through the Application of the Co-evolutionary Framework: Korea and Viet Nam</title>
-      <link>http://localhost:1313/publication/world-bank/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/world-bank/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/world-bank/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/world-bank/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where and how does a product evolve? Product innovation pattern in product lineage</title>
-      <link>http://localhost:1313/publication/paper_technovation/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_technovation/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_technovation/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_technovation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping the evolutionary pattern of mobile products: a phylogenetic approach</title>
-      <link>http://localhost:1313/publication/paper_ieee/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_ieee/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_ieee/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_ieee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring ethics level of technological topics using phylogenetic tree</title>
-      <link>http://localhost:1313/publication/paper_tasm/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_tasm/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_tasm/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_tasm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drivers of institutional evolution: phylogenetic inertia and ecological pressure</title>
-      <link>http://localhost:1313/publication/paper_jee/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_jee/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_jee/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_jee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of evolution patterns and path dependences of the mid- to long-term strategies in the S&amp;T field with qualitative and quantitative findings</title>
-      <link>http://localhost:1313/publication/paper_kci/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_kci/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_kci/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_kci/</guid>
       <description></description>
     </item>
     

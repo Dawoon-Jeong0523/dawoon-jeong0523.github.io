@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Dawoon Jeong&#39;s Page</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dawoon-jeong0523.github.io/project/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://dawoon-jeong0523.github.io/project/</link>
     </image>
     
     <item>
       <title>Role of Manager</title>
-      <link>http://localhost:1313/project/linkedin/</link>
+      <link>https://dawoon-jeong0523.github.io/project/linkedin/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/linkedin/</guid>
+      <guid>https://dawoon-jeong0523.github.io/project/linkedin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>US Legal Code</title>
-      <link>http://localhost:1313/project/us-legal-code/</link>
+      <link>https://dawoon-jeong0523.github.io/project/us-legal-code/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/us-legal-code/</guid>
+      <guid>https://dawoon-jeong0523.github.io/project/us-legal-code/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Financial AI | Dawoon Jeong&#39;s Page</title>
-    <link>http://localhost:1313/tags/financial-ai/</link>
-      <atom:link href="http://localhost:1313/tags/financial-ai/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dawoon-jeong0523.github.io/tags/financial-ai/</link>
+      <atom:link href="https://dawoon-jeong0523.github.io/tags/financial-ai/index.xml" rel="self" type="application/rss+xml" />
     <description>Financial AI</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://dawoon-jeong0523.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Financial AI</title>
-      <link>http://localhost:1313/tags/financial-ai/</link>
+      <link>https://dawoon-jeong0523.github.io/tags/financial-ai/</link>
     </image>
     
     <item>
       <title>Measuring ethics level of technological topics using phylogenetic tree</title>
-      <link>http://localhost:1313/publication/paper_tasm/</link>
+      <link>https://dawoon-jeong0523.github.io/publication/paper_tasm/</link>
       <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paper_tasm/</guid>
+      <guid>https://dawoon-jeong0523.github.io/publication/paper_tasm/</guid>
       <description></description>
     </item>
     
