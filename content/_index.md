@@ -100,7 +100,7 @@ sections:
   - block: collection
     id: under-review-rr
     content:
-      title: Manuscripts Under Review (R&R)
+      title: Manuscripts in R&R
       text: ""
       filters:
         folders:
