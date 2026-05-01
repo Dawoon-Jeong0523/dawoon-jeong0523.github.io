@@ -27,4 +27,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+projects:
+  - URoL_EN
 ---
