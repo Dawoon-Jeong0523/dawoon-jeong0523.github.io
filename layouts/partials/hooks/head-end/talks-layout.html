@@ -1,0 +1,8 @@
+{{ with .File }}
+  {{ if eq .Path "talks.md" }}
+    {{ with resources.Get "css/talks.css" }}
+      {{ $style := . | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+  {{ end }}
+{{ end }}
