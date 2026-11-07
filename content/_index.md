@@ -151,13 +151,19 @@ sections:
       text: |-
         **Science of Science Metrics Dashboard**
 
+        <a href="https://dawoon-jeong0523.github.io/SciSci/metrics_dashboard.html" target="_blank" rel="noopener"><img src="/uploads/data-software/scisci-dashboard.jpg" alt="First screen of the Science of Science Metrics Dashboard, showing the Metrics Ledger overview and research data summaries." width="1440" height="960" loading="lazy" decoding="async" style="width:100%;height:auto;border:1px solid #e5e7eb;border-radius:12px;"></a>
+
         Explore metrics of scientific and technological evolution, novelty, atypicality, and knowledge structure. [Open dashboard](https://dawoon-jeong0523.github.io/SciSci/metrics_dashboard.html)
 
         **Economic Complexity Dashboard**
 
+        <a href="https://dawoon-jeong0523.github.io/EC_dashboard/dashboard.html" target="_blank" rel="noopener"><img src="/uploads/data-software/economic-complexity-dashboard.jpg" alt="First screen of the Economic Complexity Dashboard, showing dataset selectors, country summaries, and ranking charts." width="1440" height="960" loading="lazy" decoding="async" style="width:100%;height:auto;border:1px solid #e5e7eb;border-radius:12px;"></a>
+
         Explore economic complexity, diversification, product space, and national capabilities. [Open dashboard](https://dawoon-jeong0523.github.io/EC_dashboard/dashboard.html)
 
         **A Century of Evolution in the Complexity of the United States Legal Code**
+
+        <a href="https://doi.org/10.6084/m9.figshare.29540039" target="_blank" rel="noopener"><img src="/uploads/data-software/us-legal-code-dataset.jpg" alt="First screen of the US Legal Code dataset on Figshare, showing the data files, dataset title, DOI, and authors." width="1440" height="1280" loading="lazy" decoding="async" style="width:100%;height:auto;border:1px solid #e5e7eb;border-radius:12px;"></a>
 
         A historical dataset for studying the changing complexity of US law, released with Jeong et al., *Scientific Data* (2026). [View dataset](https://doi.org/10.6084/m9.figshare.29540039) · [Read paper](https://doi.org/10.1038/s41597-025-06313-w)
     design:
