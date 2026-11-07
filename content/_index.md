@@ -179,9 +179,9 @@ sections:
       text: |-
         **Science of Science Metrics Dashboard**
 
-        <a href="https://dawoon-jeong0523.github.io/SciSci/metrics_dashboard.html" target="_blank" rel="noopener"><img src="/uploads/data-software/scisci-dashboard.jpg" alt="First screen of the Science of Science Metrics Dashboard, showing the Metrics Ledger overview and research data summaries." width="1440" height="960" loading="lazy" decoding="async" style="width:100%;height:auto;border:1px solid #e5e7eb;border-radius:12px;"></a>
+        <p class="data-software-description">Explore metrics of scientific and technological evolution, novelty, atypicality, and knowledge structure. <a href="https://dawoon-jeong0523.github.io/SciSci/metrics_dashboard.html">Open dashboard</a></p>
 
-        Explore metrics of scientific and technological evolution, novelty, atypicality, and knowledge structure. [Open dashboard](https://dawoon-jeong0523.github.io/SciSci/metrics_dashboard.html)
+        <a href="https://dawoon-jeong0523.github.io/SciSci/metrics_dashboard.html" target="_blank" rel="noopener"><img src="/uploads/data-software/scisci-dashboard.jpg" alt="First screen of the Science of Science Metrics Dashboard, showing the Metrics Ledger overview and research data summaries." width="1440" height="960" loading="lazy" decoding="async" style="width:100%;height:auto;border:1px solid #e5e7eb;border-radius:12px;"></a>
 
         **Economic Complexity Dashboard**
 

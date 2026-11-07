@@ -246,3 +246,9 @@
   text-underline-offset: 0.2em;
   overflow-wrap: anywhere;
 }
+
+/* Keep the dashboard description smaller than its title and above its preview. */
+#data-software .data-software-description {
+  font-size: 0.875em;
+  line-height: 1.6;
+}
