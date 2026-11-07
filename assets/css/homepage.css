@@ -63,3 +63,63 @@
     margin-inline: 0;
   }
 }
+
+
+/* Let the research overview use the available viewport width. */
+#research > .max-w-prose {
+  max-width: none;
+  padding-inline: clamp(1.5rem, 2.5vw, 3rem);
+}
+
+#research .research-heading {
+  margin: 0 0 2.5rem;
+  font-size: clamp(1.875rem, 2.5vw, 2.5rem);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+#research .research-themes {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 2rem;
+}
+
+#research .research-theme {
+  min-width: 0;
+  padding-top: 1.5rem;
+  border-top: 2px solid #10b981;
+}
+
+#research .research-theme h3 {
+  margin: 0 0 1rem;
+  font-size: clamp(1.25rem, 1.4vw, 1.5rem);
+  font-weight: 600;
+  line-height: 1.35;
+}
+
+#research .research-theme p {
+  margin: 0;
+}
+
+#research .research-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  margin-top: 2.5rem;
+}
+
+#research .research-links a {
+  font-weight: 600;
+  text-underline-offset: 0.2em;
+}
+
+@media (min-width: 80rem) {
+  #research .research-themes {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    column-gap: clamp(1.5rem, 2.5vw, 3rem);
+  }
+
+  #research .research-theme h3 {
+    min-height: 2.7em;
+  }
+}

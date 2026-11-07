@@ -31,24 +31,30 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    id: research
     content:
-      title: 'Research'
+      title: ''
       subtitle: ''
       text: |-
-        **Product evolution and technological capabilities**
-
-        How do new capabilities emerge, persist, and spread? I reconstruct product lineages to study inheritance, recombination, and changes in technical capabilities, with applications to mobile products and semiconductors.
-
-        **Connections between science and technology**
-
-        I link products, patents, and research papers to examine how technologies draw on scientific knowledge, how atypical research is cited, and whether patterns of knowledge assembly recur across industries.
-
-        **Institutional evolution and complexity**
-
-        I use historical records and network analysis to study the evolution and complexity of rule systems, including the U.S. Code, sports rules, and regulations.
-
-        [Explore research projects](/projects/) · [Get in touch](mailto:jdwoon0523@uchicago.edu)
-
+        <h2 class="research-heading">Research</h2>
+        <div class="research-themes">
+          <article class="research-theme">
+            <h3>Product evolution and technological capabilities</h3>
+            <p>How do new capabilities emerge, persist, and spread? I reconstruct product lineages to study inheritance, recombination, and changes in technical capabilities, with applications to mobile products and semiconductors.</p>
+          </article>
+          <article class="research-theme">
+            <h3>Connections between science and technology</h3>
+            <p>I link products, patents, and research papers to examine how technologies draw on scientific knowledge, how atypical research is cited, and whether patterns of knowledge assembly recur across industries.</p>
+          </article>
+          <article class="research-theme">
+            <h3>Institutional evolution and complexity</h3>
+            <p>I use historical records and network analysis to study the evolution and complexity of rule systems, including the U.S. Code, sports rules, and regulations.</p>
+          </article>
+        </div>
+        <div class="research-links">
+          <a href="/projects/">Explore research projects</a>
+          <a href="mailto:jdwoon0523@uchicago.edu">Get in touch</a>
+        </div>
     design:
       columns: '1'
   - block: collection
