@@ -223,5 +223,9 @@ awards:
 
 ## About Me
 
-Dawoon Jeong is a Postdoctoral Scholar at the Knowledge Lab in the Department of Sociology, The University of Chicago, advised by Professor James Evans. He studies the evolution of sciences, technologies, products, and institutions using computational social science, network science, and AI. His work develops data-driven measures of complexity and evolutionary structure (e.g., phylogeny/lineage, embeddings) and applies them to innovation, science of science, and legal/organizational systems.
+I am a Postdoctoral Scholar at the Knowledge Lab in the Department of Sociology, The University of Chicago, working with James Evans. I study how products evolve and how they draw on scientific knowledge.
+
+By reconstructing product lineages and linking products to patents and research papers, I trace how technical capabilities emerge, persist, and spread across product families. My research combines network analysis, evolutionary modeling, and text-based representations to examine innovation and knowledge assembly. I also use historical records to study how legal and regulatory systems evolve over time.
+
+I also publish as Dawoon Jung.
 

@@ -11,6 +11,7 @@ authors:
 # Author notes (optional)
 author_notes:
   - 'First Author, Corresponding Author'
+  - ''
 
 #date: '2013-07-01T00:00:00Z'
 #doi: ''
@@ -36,7 +37,7 @@ tags:
   - Product Lineage Lify Cycle
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

@@ -1,7 +1,8 @@
 ---
 title: "Patterns of Economic Diversification via Coevolution of Production and Technology"
 date: 2023-01-01
-summary: "World Bank project mapping patterns of economic diversification through the coevolution of production and technology, applied to Korea and Vietnam."
+hide_date: true
+summary: "Economic diversification through the coevolution of production and technology. Researcher, World Bank Group."
 tags:
   - Economic Complexity
   - Diversification
@@ -9,7 +10,7 @@ tags:
   - Technology Space
 ---
 
-A World Bank Group project mapping patterns of economic diversification through the coevolution of production and technology. The work led to the comparative study of Korea and Viet Nam (Aridi et al., *World Bank Report*, 2024).
+A World Bank Group project examining economic diversification through the coevolution of production and technology. Related work includes *Diversification through the Application of the Co-evolutionary Framework: Korea and Viet Nam* (Aridi et al., World Bank, 2024).
 
 **Role:** Researcher  
 **Sponsor:** World Bank Group

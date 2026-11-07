@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Project
-      text: ""
+      title: Research Projects
+      text: "Collaborative projects on technological change, regulatory systems, and economic diversification."
       filters:
         folders:
           - project

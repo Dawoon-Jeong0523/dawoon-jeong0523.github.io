@@ -1,6 +1,6 @@
 ---
 title: Teaching
-summary: My courses
+summary: Courses taught at UNIST in Spring and Fall 2024.
 type: landing
 
 cascade:
@@ -14,6 +14,7 @@ sections:
     id: teaching
     content:
       title: Teaching
+      text: 'Courses taught at UNIST in Spring and Fall 2024, with lecture materials and code.'
       filters:
         folders:
           - teaching

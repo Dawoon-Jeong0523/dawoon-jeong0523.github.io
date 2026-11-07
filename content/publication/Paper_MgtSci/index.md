@@ -14,11 +14,12 @@ author_notes:
   - 'Corresponding Author'
 
 publishDate: '2025-06-01T00:00:00Z'
+publication_date: 'Submitted'
 
 publication_types: ["preprint"]
 
-publication: In *Management Science* (Under Review)
-publication_short: In *Management Science* (Under Review)
+publication: In *Research Policy* (Submitted)
+publication_short: In *Research Policy* (Submitted)
 
 abstract: 'We investigate how reliance on disruptive science affects the translation of scientific discoveries into technology, with implications for the dynamics of innovation.'
 

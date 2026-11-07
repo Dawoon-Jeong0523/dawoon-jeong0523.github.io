@@ -18,6 +18,9 @@ authors:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-05-21T00:00:00Z'
+# Volume 34, issue 1 was published in January 2025.
+publication_date: '2025'
+doi: '10.1093/icc/dtae020'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

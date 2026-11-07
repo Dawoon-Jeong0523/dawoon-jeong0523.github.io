@@ -57,6 +57,7 @@ sections:
         - *npj Complexity*
         - *Humanities and Social Sciences Communications*
         - *Science and Public Policy*
+        - *International Economics and Economic Policy*
     design:
       columns: '1'
   - block: markdown
@@ -70,12 +71,15 @@ sections:
         - Text Mining (BAT54201) — Spring 2024
         - Analytics Programming with Application (BAT563001) — Spring 2024
 
-        **Co-Advising (Seoul National University)**
+        **Advising / Co-Advising**
 
-        - Soohyoung Lee, Ph.D. — Sep 2024 to Present
-        - Yeokyung Hwang, Ph.D. Candidate — Sep 2024 to Present
-        - Hayoung Park, Ph.D. — Sep 2022 to Jan 2026
-        - Hoyoon Lee, Ph.D. — Feb 2021 to Feb 2022
+        - Joomin Lee, Ph.D. Candidate, Seoul National University — Jun 2026 to Present
+        - Kenzi M’Hamdi, Undergraduate Researcher (DSI Summer Lab), Brown University — Jun 2026 to Present
+        - Huy Nguyen, Undergraduate Researcher (DSI Summer Lab), Augustana College — Jun 2026 to Present
+        - Soohyoung Lee, Ph.D. Candidate, Seoul National University — Sep 2024 to Present
+        - Yeokyung Hwang, Ph.D. Candidate, Seoul National University — Sep 2024 to Present
+        - Hayoung Park, Ph.D. Candidate, Seoul National University — Sep 2022 to Jan 2026
+        - Hoyoon Lee, Ph.D. Candidate, Seoul National University — Feb 2021 to Feb 2022
     design:
       columns: '1'
 ---

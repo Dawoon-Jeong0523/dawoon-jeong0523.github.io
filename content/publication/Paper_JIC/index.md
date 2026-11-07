@@ -25,8 +25,8 @@ publishDate: '2024-11-01T00:00:00Z'
 publication_types: ["article-journal-domestic"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Industrial Convergence,*
-publication_short: In *Journal of Industrial Convergence,*
+publication: In *Journal of Industrial Convergence*, 22(11), 1-11
+publication_short: In *Journal of Industrial Convergence*
 
 abstract: The objective of this study is to identify global research trends in the field of smart production, analyze the comparative advantages of countries and research areas, and provide fundamental data for future technology development and policy decision-making. To this end, this study conducted research space analysis based on academic literature related to smart manufacturing from 2000 to 2022, collected from Web of Science. The analysis demonstrates that China and the United States are the foremost contributors to the global research network in the field of smart manufacturing, exhibiting both quantitative and qualitative advantages. In particular, the United States leads China in the average level of comparative advantage and the number of areas which have competitiveness. Moreover, it is revealed that smart manufacturing research is characterized by multidisciplinary convergence. Korea has a comparative advantage in some areas, but the number is relatively small, suggesting that it needs to be improved to strengthen its global competitiveness. This study can suggest the direction of smart manufacturing-related research and contribute to the establishment of strategies to secure global competitiveness based on academic research.
 

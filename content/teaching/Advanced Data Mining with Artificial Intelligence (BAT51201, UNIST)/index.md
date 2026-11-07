@@ -1,12 +1,15 @@
 ---
 title: Advanced Data Mining with Artificial Intelligence (BAT51201)
-summary: Understand the basic and core AI algorithms and data analysis techniques
+summary: 'UNIST · Fall 2024. Core AI algorithms and data analysis techniques.'
+teaching_term: Fall 2024
 date: 2025-01-27
 type: docs
 tags:
   - Machine Learning, Deep Learning, Transformer
 url_code: 'https://github.com/Dawoon-Jeong0523/Lecture_UNIST_2024_Fall'
 ---
+
+**UNIST · Fall 2024 · BAT51201**
 
 This course is an introductory graduate-level course on data mining and artificial intelligence, specialized for the students majoring in management.
 In this course, students will learn the most basic and core deep learning techniques and examine how deep learning techniques can improve business

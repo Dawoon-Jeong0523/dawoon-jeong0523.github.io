@@ -1,7 +1,8 @@
 ---
-title: "Co-evolutionary Pattern of Production and Technology for Malaysia"
+title: "Co-evolutionary Pattern of Production and Technology for Malaysia: Opportunities for Phase and Green Transition"
 date: 2024-01-01
-summary: "World Bank project on Malaysia's opportunities for phase and green transition through the co-evolution of production and technology."
+hide_date: true
+summary: "Malaysia's opportunities for phase and green transition through the coevolution of production and technology. Researcher, World Bank Group."
 tags:
   - Economic Complexity
   - Diversification

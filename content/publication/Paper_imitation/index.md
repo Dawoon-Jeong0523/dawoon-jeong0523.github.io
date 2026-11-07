@@ -14,6 +14,7 @@ authors:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-05-31T00:00:00Z'
+publication_date: '2nd Revise & Resubmit'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,8 +22,8 @@ publishDate: '2024-05-31T00:00:00Z'
 publication_types: ["preprint (R&R)"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The World Economy* (Revise & Resubmit)
-publication_short: In *The World Economy* (R&R)
+publication: In *The World Economy* (2nd Revise & Resubmit)
+publication_short: In *The World Economy* (2nd R&R)
 
 abstract: How does an underdeveloped country enter new industries? This study seeks to answer this question by arguing that the country learns the diversification paths from its rivals with similar export structures. Constructing a panel dataset of export production covering 133 countries from 1963 to 2018, this study suggests a network space of how countries are similar in export using a new metric of imitation density. Fixed effect and logistic models are used to test the causal relationship between the existence of industries in countries with similar industrial structures and diversification to these industries. Further, a case study of four Asian countries is considered. The results suggest that imitation density's influence on diversification does not vary with a country's development level. Diversified products' complexity correlates more with imitation density at lower economic complexity. This suggests that countries diversify into complex products through imitation (innovation) at lower (higher) economic complexity, providing empirical evidence of the transition from imitation to innovation.
 
@@ -33,7 +34,7 @@ tags:
   - Path-Dependence
 
 # Display this page in the Featured widget?
-featured: True
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

@@ -32,12 +32,22 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research'
       subtitle: ''
       text: |-
-        I apply network and machine learning approaches to understand social systems, including products, science, technology, law, firm, and the country. 
-        
-        Feel free to reach out for collaboration! 😃
+        **Product evolution and technological capabilities**
+
+        How do new capabilities emerge, persist, and spread? I reconstruct product lineages to study inheritance, recombination, and changes in technical capabilities, with applications to mobile products and semiconductors.
+
+        **Connections between science and technology**
+
+        I link products, patents, and research papers to examine how technologies draw on scientific knowledge, how atypical research is cited, and whether patterns of knowledge assembly recur across industries.
+
+        **Institutional evolution and complexity**
+
+        I use historical records and network analysis to study the evolution of laws and regulatory systems, including the United States Legal Code and the Laws of Cricket.
+
+        [Explore research projects](/projects/) · [Get in touch](mailto:jdwoon0523@uchicago.edu)
 
     design:
       columns: '1'
@@ -45,6 +55,7 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      count: 5
       filters:
         folders:
           - publication
@@ -63,8 +74,9 @@ sections:
   - block: collection
     id: reviewed-articles
     content:
-      title: Reviewed Articles
-      text: ""
+      title: Peer-Reviewed Publications
+      text: "Published and accepted articles. Author contribution notes are available on each paper's page."
+      count: 0
       filters:
         folders:
           - publication
@@ -77,6 +89,7 @@ sections:
     content:
       title: Reports
       text: ""
+      count: 0
       filters:
         folders:
           - publication
@@ -86,8 +99,9 @@ sections:
   - block: collection
     id: reviewed-articles-domestic
     content:
-      title: Reviewed Articles (Domestic)
+      title: Peer-Reviewed Publications (Domestic)
       text: ""
+      count: 0
       filters:
         folders:
           - publication
@@ -97,8 +111,9 @@ sections:
   - block: collection
     id: under-review
     content:
-      title: Manuscripts Under Review
+      title: Submitted & Under Review
       text: ""
+      count: 0
       filters:
         folders:
           - publication
@@ -110,6 +125,7 @@ sections:
     content:
       title: Manuscripts in R&R
       text: ""
+      count: 0
       filters:
         folders:
           - publication
@@ -133,7 +149,17 @@ sections:
     content:
       title: Data & Software
       text: |-
-        - **A Century of Evolution in the Complexity of the United States Legal Code** — released with Jeong et al., *Scientific Data* (2026). [DOI](https://doi.org/10.6084/m9.figshare.29540039)
+        **Science of Science Metrics Dashboard**
+
+        Explore metrics of scientific and technological evolution, novelty, atypicality, and knowledge structure. [Open dashboard](https://dawoon-jeong0523.github.io/SciSci/metrics_dashboard.html)
+
+        **Economic Complexity Dashboard**
+
+        An interactive research dashboard for economic complexity, diversification, product space, and national capabilities. [Contact me about this project](mailto:jdwoon0523@uchicago.edu)
+
+        **A Century of Evolution in the Complexity of the United States Legal Code**
+
+        A historical dataset for studying the changing complexity of US law, released with Jeong et al., *Scientific Data* (2026). [View dataset](https://doi.org/10.6084/m9.figshare.29540039) · [Read paper](https://doi.org/10.1038/s41597-025-06313-w)
     design:
       columns: '1'
   - block: collection

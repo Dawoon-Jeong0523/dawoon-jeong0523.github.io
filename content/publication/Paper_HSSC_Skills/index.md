@@ -2,16 +2,17 @@
 title: 'The Central Embeddedness of General Skills and Their Influence on Occupational Wages'
 
 authors:
-  - Dawoon Jeong*
   - Soohyoung Lee
+  - Dawoon Jeong*
   - Jeong-Dong Lee
 
 author_notes:
-  - 'Co-First Author, Corresponding Author'
   - 'Co-First Author'
+  - 'Co-First Author, Corresponding Author'
   - ''
 
 publishDate: '2025-06-01T00:00:00Z'
+publication_date: 'Under Review'
 
 publication_types: ["preprint"]
 
