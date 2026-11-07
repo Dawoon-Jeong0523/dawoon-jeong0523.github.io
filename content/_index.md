@@ -14,6 +14,11 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
+      overview:
+        image: /uploads/research/research-overview.webp
+        alt: "Dawoon Jeong's career, including Santa Fe Institute visits, alongside product lineages linking papers, patents and devices, rule evolution, and schematic scaling analysis."
+        width: 1448
+        height: 1086
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -36,12 +41,6 @@ sections:
       title: ''
       subtitle: ''
       text: |-
-        <figure class="research-overview">
-          <a class="research-image-link" href="/uploads/research/research-overview.webp" target="_blank" rel="noopener" aria-label="Open the research and career overview at full size">
-            <img src="/uploads/research/research-overview.webp" alt="Dawoon Jeong's career, including Santa Fe Institute visits, alongside product lineages linking papers, patents and devices, rule evolution, and schematic scaling analysis." width="1448" height="1086" loading="lazy" decoding="async">
-          </a>
-          <figcaption><a href="/uploads/research/research-overview.webp" target="_blank" rel="noopener">View full-size illustration</a></figcaption>
-        </figure>
         <h2 class="research-heading">Research</h2>
         <div class="research-themes">
           <article class="research-theme">

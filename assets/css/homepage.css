@@ -3,17 +3,24 @@
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   width: 100%;
-  max-width: 85rem;
+  max-width: 100rem;
   margin-inline: auto;
   padding-inline: clamp(1.5rem, 3vw, 2.5rem);
   gap: 2rem;
 }
 
 .blox-resume-biography-3 .resume-biography > .flex-none {
+  grid-column: 1 / -1;
   width: 100%;
-  max-width: 20rem;
+  max-width: 42rem;
   min-width: 0;
   margin-inline: auto;
+}
+
+.blox-resume-biography-3 .biography-details {
+  grid-column: 1 / -1;
+  min-width: 0;
+  margin-top: 0;
 }
 
 .blox-resume-biography-3 .resume-biography > .flex-auto {
@@ -53,14 +60,37 @@
 
 @media (min-width: 64rem) {
   .blox-resume-biography-3 .resume-biography {
-    grid-template-columns: 17.5rem minmax(0, 1fr);
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
     column-gap: clamp(2rem, 4vw, 4rem);
     align-items: start;
   }
 
-  .blox-resume-biography-3 .resume-biography > .flex-none {
-    max-width: none;
-    margin-inline: 0;
+  .blox-resume-biography-3 #profile {
+    display: grid;
+    grid-template-columns: 150px minmax(0, 1fr);
+    gap: 0.75rem 1.5rem;
+    align-items: center;
+  }
+
+  .blox-resume-biography-3 #profile .avatar-wrapper {
+    grid-column: 1;
+    grid-row: 1 / 3;
+    margin-top: 0;
+  }
+
+  .blox-resume-biography-3 #profile .portrait-title {
+    grid-column: 2;
+    text-align: left;
+  }
+
+  .blox-resume-biography-3 #profile .portrait-title > .text-3xl {
+    margin-top: 0;
+  }
+
+  .blox-resume-biography-3 #profile .network-icon {
+    grid-column: 2;
+    justify-content: flex-start;
+    margin: 0;
   }
 }
 
@@ -133,17 +163,18 @@
 
 
 /* Keep research illustrations uncropped and easy to open at full size. */
-#research .research-overview {
+.blox-resume-biography-3 .research-overview {
   width: 100%;
-  max-width: 80rem;
-  margin: 0 auto clamp(2.5rem, 4vw, 4rem);
+  min-width: 0;
+  margin: 0;
 }
 
 #research .research-theme-figure {
   margin: 0 0 1.5rem;
 }
 
-#research .research-image-link {
+#research .research-image-link,
+.blox-resume-biography-3 .research-image-link {
   display: block;
   overflow: hidden;
   border: 1px solid rgb(148 163 184 / 30%);
@@ -151,24 +182,42 @@
   background: #fbf7ed;
 }
 
-#research .research-image-link img {
+#research .research-image-link img,
+.blox-resume-biography-3 .research-image-link img {
   display: block;
   width: 100%;
   height: auto;
   margin: 0;
 }
 
-#research .research-image-link:focus-visible {
+#research .research-image-link:focus-visible,
+.blox-resume-biography-3 .research-image-link:focus-visible {
   outline: 3px solid #047857;
   outline-offset: 4px;
 }
 
-#research .research-overview figcaption {
+.blox-resume-biography-3 .research-overview figcaption {
+  color: #d1d5db;
   margin: 0.75rem 0 0;
   font-size: 0.875rem;
   text-align: right;
 }
 
-#research .research-overview figcaption a {
+.blox-resume-biography-3 .research-overview figcaption a {
+  text-decoration: underline;
   text-underline-offset: 0.2em;
+}
+
+
+/* Align the introduction with its illustration on the dark biography panel. */
+.blox-resume-biography-3 .resume-biography > .flex-auto > .prose {
+  padding-top: 0;
+}
+
+.blox-resume-biography-3 .bio-text > h2:first-child {
+  margin-top: 0;
+}
+
+.blox-resume-biography-3 .research-image-link:focus-visible {
+  outline-color: #a7f3d0;
 }
