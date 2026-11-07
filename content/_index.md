@@ -36,18 +36,39 @@ sections:
       title: ''
       subtitle: ''
       text: |-
+        <figure class="research-overview">
+          <a class="research-image-link" href="/uploads/research/research-overview.webp" target="_blank" rel="noopener" aria-label="Open the research and career overview at full size">
+            <img src="/uploads/research/research-overview.webp" alt="Dawoon Jeong's career, including Santa Fe Institute visits, alongside product lineages linking papers, patents and devices, rule evolution, and schematic scaling analysis." width="1448" height="1086" loading="lazy" decoding="async">
+          </a>
+          <figcaption><a href="/uploads/research/research-overview.webp" target="_blank" rel="noopener">View full-size illustration</a></figcaption>
+        </figure>
         <h2 class="research-heading">Research</h2>
         <div class="research-themes">
           <article class="research-theme">
+            <figure class="research-theme-figure">
+              <a class="research-image-link" href="/uploads/research/product-evolution.webp" target="_blank" rel="noopener" aria-label="Open the product evolution illustration at full size">
+                <img src="/uploads/research/product-evolution.webp" alt="Branching and recombining mobile-phone and semiconductor lineages, with inherited capabilities represented by colored symbols." width="1536" height="1024" loading="lazy" decoding="async">
+              </a>
+            </figure>
             <h3>Product evolution and technological capabilities</h3>
             <p>How do new capabilities emerge, persist, and spread? I reconstruct product lineages to study inheritance, recombination, and changes in technical capabilities, with applications to mobile products and semiconductors.</p>
           </article>
           <article class="research-theme">
+            <figure class="research-theme-figure">
+              <a class="research-image-link" href="/uploads/research/science-technology.webp" target="_blank" rel="noopener" aria-label="Open the science and technology illustration at full size">
+                <img src="/uploads/research/science-technology.webp" alt="A knowledge network connecting scientific papers, patent drawings and products, with an atypical connection highlighted by an orange dashed line." width="1536" height="1024" loading="lazy" decoding="async">
+              </a>
+            </figure>
             <h3>Connections between science and technology</h3>
             <p>I link products, patents, and research papers to examine how technologies draw on scientific knowledge, how atypical research is cited, and whether patterns of knowledge assembly recur across industries.</p>
           </article>
           <article class="research-theme">
-            <h3>Institutional evolution and complexity</h3>
+            <figure class="research-theme-figure">
+              <a class="research-image-link" href="/uploads/research/rule-evolution.webp" target="_blank" rel="noopener" aria-label="Open the rule evolution illustration at full size">
+                <img src="/uploads/research/rule-evolution.webp" alt="The U.S. Code and cricket rules alongside changing rule hierarchies and a schematic log-log scaling plot." width="1536" height="1024" loading="lazy" decoding="async">
+              </a>
+            </figure>
+            <h3>Rule evolution and complexity</h3>
             <p>I use historical records and network analysis to study the evolution and complexity of rule systems, including the U.S. Code, sports rules, and regulations.</p>
           </article>
         </div>

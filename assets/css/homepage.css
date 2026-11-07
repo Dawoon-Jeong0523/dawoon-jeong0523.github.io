@@ -130,3 +130,45 @@
 #reviewed-articles-domestic .li-cite-author .author-profile-name {
   font-weight: 700;
 }
+
+
+/* Keep research illustrations uncropped and easy to open at full size. */
+#research .research-overview {
+  width: 100%;
+  max-width: 80rem;
+  margin: 0 auto clamp(2.5rem, 4vw, 4rem);
+}
+
+#research .research-theme-figure {
+  margin: 0 0 1.5rem;
+}
+
+#research .research-image-link {
+  display: block;
+  overflow: hidden;
+  border: 1px solid rgb(148 163 184 / 30%);
+  border-radius: 0.75rem;
+  background: #fbf7ed;
+}
+
+#research .research-image-link img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+#research .research-image-link:focus-visible {
+  outline: 3px solid #047857;
+  outline-offset: 4px;
+}
+
+#research .research-overview figcaption {
+  margin: 0.75rem 0 0;
+  font-size: 0.875rem;
+  text-align: right;
+}
+
+#research .research-overview figcaption a {
+  text-underline-offset: 0.2em;
+}
