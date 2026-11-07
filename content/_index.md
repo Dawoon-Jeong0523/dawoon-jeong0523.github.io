@@ -155,7 +155,7 @@ sections:
 
         **Economic Complexity Dashboard**
 
-        An interactive research dashboard for economic complexity, diversification, product space, and national capabilities. [Contact me about this project](mailto:jdwoon0523@uchicago.edu)
+        Explore economic complexity, diversification, product space, and national capabilities. [Open dashboard](https://dawoon-jeong0523.github.io/EC_dashboard/dashboard.html)
 
         **A Century of Evolution in the Complexity of the United States Legal Code**
 
