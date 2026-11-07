@@ -74,8 +74,9 @@ sections:
     content:
       title: In the News
       text: |-
-        - **Santa Fe Institute** (2025) — *New dataset reveals how US law has grown more complex over the past century.* [Read](https://www.santafe.edu/news-center/news/new-dataset-reveals-how-us-law-has-grown-more-complex-over-the-past-century)
-        - **SBS News** (2024) — *이차전지 인재 수요 7년새 2.5배로 증가…수도권 절반 차지* [Read (Korean)](https://n.news.naver.com/article/055/0001213963)
+        - **Santa Fe Institute** (2025) — *New dataset reveals how US law has grown more complex over the past century.* [Read](https://www.santafe.edu/news-center/news/new-dataset-reveals-how-us-law-has-grown-more-complex-over-the-past-century) · **Role:** Co-first author
+        - **SBS News** (2024) — *이차전지 인재 수요 7년새 2.5배로 증가…수도권 절반 차지* [Read (Korean)](https://n.news.naver.com/article/055/0001213963) · **Role:** Data analyst
+        - **KBS시사** (2023) — *30살 수능, 길을 잃다 [풀영상] | 창 411회 (KBS 23.03.28)* [Watch (Korean)](https://www.youtube.com/watch?v=a4O3L_jZFoE&t=2s) · **Role:** Data analysis
     design:
       columns: '1'
   - block: collection
