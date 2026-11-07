@@ -30,7 +30,7 @@ tags:
   - Product Development Trajectory
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 url_pdf: 'https://doi.org/10.1007/s11192-025-05395-y'
 

@@ -62,7 +62,7 @@ tags:
   - Genetic Research
   - Innovation Indicators
 
-featured: true
+featured: false
 
 links:
   - name: Preprint
