@@ -53,7 +53,8 @@ url_code: 'https://github.com/Dawoon-Jeong0523/Product-Science/blob/main/Phyloge
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Mobile product phylogeny from Lee et al. (2024), *IEEE Transactions on Engineering Management*. [Source](https://doi.org/10.1109/TEM.2022.3214489)."
+  alt_text: "A phylogenetic tree tracing the evolution of mobile product families."
   focal_point: ''
   preview_only: false
 

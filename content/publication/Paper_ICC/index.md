@@ -58,7 +58,8 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Figure 4. Search, inheritance, and recombination in a technological phylogeny. Park, Jeong & Lee (2025). [Source](https://doi.org/10.1093/icc/dtae020)."
+  alt_text: "Conceptual diagram of vertical inheritance, horizontal transfer, and mutation in technological evolution."
   focal_point: ''
   preview_only: false
 

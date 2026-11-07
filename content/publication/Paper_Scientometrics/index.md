@@ -36,7 +36,8 @@ url_pdf: 'https://doi.org/10.1007/s11192-025-05395-y'
 
 # Featured image
 image:
-  caption: 'Figure 1, Jeong & Lee (2025), Scientometrics'
+  caption: "Figure 1. Constructing product citation networks. Jeong & Lee (2025), *Scientometrics*. [Source](https://doi.org/10.1007/s11192-025-05395-y)."
+  alt_text: "Four-step workflow from technical product characteristics to product citation networks."
   focal_point: ''
   preview_only: false
 ---

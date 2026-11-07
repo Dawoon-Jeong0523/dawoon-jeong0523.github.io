@@ -51,7 +51,8 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Occupational network from Lee, Jeong & Lee (2024), *Automation Will Set Occupational Mobility Free*. [Public preprint](https://arxiv.org/abs/2411.03605)."
+  alt_text: "Occupations positioned in a network and grouped by their predominant skill categories."
   focal_point: ''
   preview_only: false
 

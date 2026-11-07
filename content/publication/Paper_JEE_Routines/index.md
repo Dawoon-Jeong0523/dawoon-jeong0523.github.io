@@ -32,7 +32,8 @@ featured: false
 url_pdf: 'https://doi.org/10.1007/s00191-025-00943-4'
 
 image:
-  caption: 'Figure 1, Park, Jeong & Lee (2026), JEE'
+  caption: "Figure 1. Organizational routines and firm behavior. Park, Jeong & Lee (2026), *Journal of Evolutionary Economics*. [Source](https://doi.org/10.1007/s00191-025-00943-4)."
+  alt_text: "Diagram connecting observed firm behavior, organizational routines, and environmental context."
   focal_point: ''
   preview_only: false
 ---

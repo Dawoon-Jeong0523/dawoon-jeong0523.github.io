@@ -34,7 +34,8 @@ tags:
 featured: false
 
 image:
-  caption: ''
+  caption: 'Figure 2: the product–technology space in 2020. Lee et al. (2025), [Innovation Studies, via KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003175365). Extracted unchanged from the published PDF.'
+  alt_text: 'A multilayer network connecting product categories and patent technology fields in the 2020 product–technology space.'
   focal_point: ''
   preview_only: false
 ---

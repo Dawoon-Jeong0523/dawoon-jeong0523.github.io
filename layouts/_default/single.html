@@ -101,11 +101,12 @@
       {{end}}
       {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
       {{/* Featured image */}}
-      <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-16" style="max-width: {{$image.Width}}px; max-height: {{$image.Height}}px;">
+      <div class="article-header {{$image_container}} featured-image-wrapper mt-4 mb-16" style="max-width: {{$image.Width}}px; {{ if ne .Section "publication" }}max-height: {{$image.Height}}px;{{ end }}">
         <div style="position: relative">
-          <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ with $.Params.image.alt_text }}{{.}}{{ end }}" class="featured-image">
-          {{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}
+          <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $.Params.image.alt_text | default ($.Title | plainify) }}" class="featured-image" {{ if eq $.Section "publication" }}style="background-color: #fff;"{{ end }}>
+          {{ if ne $.Section "publication" }}{{ with $.Params.image.caption }}<span class="article-header-caption">{{ . | markdownify | emojify }}</span>{{ end }}{{ end }}
         </div>
+        {{ if eq .Section "publication" }}{{ with .Params.image.caption }}<p class="mt-2 text-sm text-gray-500 dark:text-gray-400">{{ . | markdownify | emojify }}</p>{{ end }}{{ end }}
       </div>
       {{end}}
 

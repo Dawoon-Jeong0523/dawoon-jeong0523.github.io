@@ -35,7 +35,8 @@ tags:
 featured: true
 
 image:
-  caption: ''
+  caption: 'Figure 4: the Korean R&D actor space. Jeong et al. (2026), [Scientometrics](https://link.springer.com/article/10.1007/s11192-026-05761-4/figures/4). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Unmodified.'
+  alt_text: 'A network of Korean firms, universities, and government research institutes linked by similarity in technological capabilities.'
   focal_point: ''
   preview_only: false
 ---

@@ -39,7 +39,8 @@ featured: false
 
 # Featured image
 image:
-  caption: ''
+  caption: 'Figure 5: occupational networks under routine and AI-driven automation. Lee, Jeong & Lee (2026), [Humanities and Social Sciences Communications](https://www.nature.com/articles/s41599-026-07415-5/figures/5). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Unmodified.'
+  alt_text: 'Occupational networks at three simulation stages comparing routine task automation with AI-driven automation.'
   focal_point: ''
   preview_only: false
 ---

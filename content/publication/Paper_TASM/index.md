@@ -59,7 +59,8 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Figure 5. Ethical profiles of deep learning, machine learning, and decision-making topics. Jeong et al. [Source](https://doi.org/10.1080/09537325.2023.2209214)."
+  alt_text: "Radar charts comparing ethical dimensions of three technological topics in 2021."
   focal_point: ''
   preview_only: false
 

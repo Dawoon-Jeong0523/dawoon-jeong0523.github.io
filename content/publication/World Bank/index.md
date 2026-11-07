@@ -60,7 +60,8 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Figure 22. Product opportunities in the Viet Nam case study. Aridi et al. (2024), World Bank. [Source](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099032124063537994/p1770151f0870f0a21bff71b52c2fd5976f)."
+  alt_text: "Scatter plot of technology-product relatedness and product complexity, highlighting diversification opportunities for Viet Nam."
   focal_point: ''
   preview_only: false
 

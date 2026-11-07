@@ -56,7 +56,8 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Mobile product lineages from Jeong & Lee (2024), *Technovation*. [Source](https://doi.org/10.1016/j.technovation.2024.102958)."
+  alt_text: "Mobile product phylogenetic tree with Apple, Samsung, Nokia, and other manufacturers distinguished by color."
   focal_point: ''
   preview_only: false
 

@@ -53,7 +53,8 @@ url_slides: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Diversification and imitation-density results from Jeong, Lee & Eum, *Learning from Rivals*. [Public preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4850246)."
+  alt_text: "Four panels comparing diversification and imitation across countries at different economic complexity levels."
   focal_point: ''
   preview_only: false
 

@@ -49,7 +49,8 @@ url_code: 'https://github.com/Dawoon-Jeong0523/Product-Science/blob/main/Phyloge
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "Institutional phylogeny workflow from Lee, Jeong & Lee (2023), *Journal of Evolutionary Economics*. [Source](https://doi.org/10.1007/s00191-023-00813-x)."
+  alt_text: "Workflow for converting institutional data into taxa and constructing an institutional phylogenetic tree."
   focal_point: ''
   preview_only: false
 

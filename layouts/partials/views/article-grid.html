@@ -1,5 +1,7 @@
 {{ $item := .item }}
 {{ $fill_image := .config.fill_image | default true }}
+{{ $is_publication := eq $item.Section "publication" }}
+{{ if $is_publication }}{{ $fill_image = false }}{{ end }}
 
 {{ $resource := partial "functions/get_featured_image.html" $item }}
 {{ $anchor := $item.Params.image.focal_point | default "Center" }}
@@ -18,16 +20,16 @@
   {{if $fill_image}}
     {{ $image = .Fill (printf "960x540 %s" $anchor) }}
   {{else}}
-    {{ $image = .Fit (printf "960x540 %s" $anchor) }}
+    {{ $image = .Fit "960x540" }}
   {{end}}
   {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-  <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800">
+  <div class="overflow-hidden rounded-md bg-gray-100 transition-all hover:scale-105 dark:bg-gray-800" {{ if $is_publication }}style="background-color: #fff;"{{ end }}>
 
     <a
       class="relative block aspect-video"
       href="{{ $link }}" {{ $target | safeHTMLAttr }}>
 
-      <img alt="{{ $item.Title | plainify }}"
+      <img alt="{{ $item.Params.image.alt_text | default ($item.Title | plainify) }}"
            class="{{if $fill_image}}object-fill{{else}}object-contain{{end}} transition-all"
            data-nimg="fill"
            decoding="async"
