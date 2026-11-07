@@ -103,6 +103,17 @@ sections:
     id: reviewed-articles
     content:
       title: Peer-Reviewed Publications
+      journal_logos:
+        - pnas
+        - scientific-data
+        - scientometrics
+        - technovation
+        - epj-data-science
+        - hssc
+        - ieee-tem
+        - industrial-corporate-change
+        - evolutionary-economics
+        - technology-analysis
       text: "Published and accepted articles. Author contribution notes are available on each paper's page."
       count: 0
       filters:

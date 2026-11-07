@@ -1,0 +1,113 @@
+{
+  "pnas": {
+    "name": "Proceedings of the National Academy of Sciences (PNAS)",
+    "image": "/uploads/journals/pnas.png",
+    "width": 280,
+    "height": 104,
+    "view_box": "0 0 280 104",
+    "background": "#153746",
+    "url": "https://www.pnas.org/",
+    "source": "User-supplied logo, November 7, 2026",
+    "sha256": "760e2857750879da2e002ba289ddbd477cd129fc3f6b0d4b59bd5887ff9938c0"
+  },
+  "scientific-data": {
+    "name": "Scientific Data",
+    "image": "/uploads/journals/scientific-data.png",
+    "width": 251,
+    "height": 32,
+    "view_box": "0 0 251 32",
+    "background": "#ffffff",
+    "url": "https://www.nature.com/sdata/",
+    "source": "User-supplied logo, November 7, 2026",
+    "sha256": "0aa24ee133e5462b800802a14121209bd7d404701095eb48d8c72db128fce38e"
+  },
+  "scientometrics": {
+    "name": "Scientometrics",
+    "image": "/uploads/journals/scientometrics.png",
+    "width": 120,
+    "height": 187,
+    "view_box": "10 43 96 29",
+    "background": "#f5efd9",
+    "url": "https://link.springer.com/journal/11192",
+    "source": "User-supplied cover; journal name displayed only",
+    "sha256": "d433b87a77d63abc4610d1aaaa8f4aa5a7d5403da44e45c2dbb5b02e585a196e"
+  },
+  "technovation": {
+    "name": "Technovation",
+    "image": "/uploads/journals/technovation.png",
+    "width": 576,
+    "height": 768,
+    "view_box": "34 111 506 64",
+    "background": "#000000",
+    "url": "https://www.sciencedirect.com/journal/technovation",
+    "source": "User-supplied cover; journal name displayed only",
+    "sha256": "6a5a061421bc4b9a59e46f75ec56cf2b8c366b6b995aae5cff8a7f712b5df53f",
+    "clip_points": "34,111 540,111 540,175 428.68,175 428.68,164.12 34,164.12"
+  },
+  "epj-data-science": {
+    "name": "EPJ Data Science",
+    "image": "/uploads/journals/epj-data-science.png",
+    "width": 827,
+    "height": 1098,
+    "view_box": "50 112 610 165",
+    "background": "#40736a",
+    "url": "https://link.springer.com/journal/13688",
+    "source": "https://media.springernature.com/full/springer-static/cover-hires/journal/13688",
+    "sha256": "8626ae2bfb67a555c0d9e040fa27852e40743de9d4e553a16e95736730f6c646"
+  },
+  "hssc": {
+    "name": "Humanities and Social Sciences Communications",
+    "image": "/uploads/journals/hssc.svg",
+    "width": 183,
+    "height": 32,
+    "view_box": "0 0 183 32",
+    "background": "#ffffff",
+    "url": "https://www.nature.com/palcomms/",
+    "source": "https://media.springernature.com/full/nature-cms/uploads/product/palcomms/header-c954fddc6c56e3a3c9ee2b73829502f3.svg",
+    "sha256": "1141ab08e052a7cc863f074b1dcf5a3d6247130828dc74209966310d3d8afeee"
+  },
+  "evolutionary-economics": {
+    "name": "Journal of Evolutionary Economics",
+    "image": "/uploads/journals/evolutionary-economics.png",
+    "width": 827,
+    "height": 1254,
+    "view_box": "50 100 750 250",
+    "background": "#959b9b",
+    "url": "https://link.springer.com/journal/191",
+    "source": "https://media.springernature.com/full/springer-static/cover-hires/journal/191",
+    "sha256": "c61eb194f89bfa791cdf5a911f1a70ebc110537618ee3184f002dd181da86d4b"
+  },
+  "industrial-corporate-change": {
+    "name": "Industrial and Corporate Change",
+    "image": "/uploads/journals/industrial-corporate-change.svg",
+    "width": 300,
+    "height": 23.9,
+    "view_box": "0 0 300 23.9",
+    "background": "#153746",
+    "url": "https://academic.oup.com/icc",
+    "source": "https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/icc/icc_f11536728305.svg",
+    "sha256": "a4e17f8eb7db18b6fd51c0ebd732091b85cdee2a8186801b96e450ac7580c1c7"
+  },
+  "ieee-tem": {
+    "name": "IEEE Transactions on Engineering Management",
+    "image": "/uploads/journals/ieee-tem.png",
+    "width": 582,
+    "height": 808,
+    "view_box": "18 32 332 132",
+    "background": "#a3d1c5",
+    "url": "https://www.ieee-tems.org/ieee-transactions-on-engineering-management/",
+    "source": "https://i0.wp.com/www.ieee-tems.org/wp-content/uploads/2024/12/IEEE-TEM-3.png?fit=582%2C808&ssl=1",
+    "sha256": "9e7c6f1694a260e15b071573cc7a795f18190db67c9d23bc96475871e191e746"
+  },
+  "technology-analysis": {
+    "name": "Technology Analysis & Strategic Management",
+    "image": "/uploads/journals/technology-analysis.jpg",
+    "width": 2055,
+    "height": 2967,
+    "view_box": "390 545 855 720",
+    "background": "#39c3ef",
+    "url": "https://www.tandfonline.com/journals/ctas20",
+    "source": "https://www.tandfonline.com/cms/asset/12ded707-23d8-404f-9fef-adb762d47f65/collection%20image-tfocoll-collection-image.jpeg",
+    "sha256": "5ce1c56f5e6d2805a6313fbea738d6e9f642b5ca3e1f214331d9cf53c0356fe2"
+  }
+}

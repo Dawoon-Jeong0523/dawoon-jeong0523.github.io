@@ -1,0 +1,21 @@
+{{/* Original journal artwork is clipped by its viewBox without changing the source pixels. */}}
+<div class="peer-journal-strip" role="region" tabindex="0" aria-label="Journals represented in peer-reviewed publications; scroll horizontally to see all">
+  <ul class="peer-journal-list" role="list">
+    {{ range . }}
+      {{ $id := . }}
+      {{ with index site.Data.journals $id }}
+      <li>
+        <a class="peer-journal-link" href="{{ .url }}" target="_blank" rel="noopener" title="{{ .name }}" aria-label="{{ .name }}" style="background-color: {{ .background }};">
+          <svg class="peer-journal-image" viewBox="{{ .view_box }}" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" preserveAspectRatio="xMidYMid meet">
+            <defs><clipPath id="peer-journal-{{ $id }}">
+              {{ if .clip_points }}<polygon points="{{ .clip_points }}"/>
+              {{ else }}{{ $box := split .view_box " " }}<rect x="{{ index $box 0 }}" y="{{ index $box 1 }}" width="{{ index $box 2 }}" height="{{ index $box 3 }}"/>{{ end }}
+            </clipPath></defs>
+            <image href="{{ .image | relURL }}" width="{{ .width }}" height="{{ .height }}" clip-path="url(#peer-journal-{{ $id }})"/>
+          </svg>
+        </a>
+      </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</div>

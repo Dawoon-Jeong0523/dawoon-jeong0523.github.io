@@ -343,3 +343,62 @@
   left: -15px;
   top: -64.5px;
 }
+
+/* A single row of journal names beneath the peer-reviewed publications heading. */
+#reviewed-articles > .max-w-prose {
+  max-width: 100rem;
+}
+
+#reviewed-articles .peer-journal-strip {
+  width: 100%;
+  min-width: 0;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  scrollbar-width: thin;
+  scrollbar-color: #94a3b8 transparent;
+  scroll-snap-type: x proximity;
+  padding: 4px 4px 12px;
+}
+
+#reviewed-articles .peer-journal-list {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(112px, 1fr);
+  gap: 12px;
+  min-width: 1228px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#reviewed-articles .peer-journal-list li {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+  scroll-snap-align: start;
+}
+
+#reviewed-articles .peer-journal-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 84px;
+  padding: 10px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+}
+
+#reviewed-articles .peer-journal-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+#reviewed-articles .peer-journal-link:focus-visible,
+#reviewed-articles .peer-journal-strip:focus-visible {
+  outline: 3px solid #047857;
+  outline-offset: 2px;
+}
