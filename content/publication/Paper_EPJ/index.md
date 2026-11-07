@@ -64,8 +64,13 @@ tags:
 
 featured: true
 
+links:
+  - name: Preprint
+    url: 'https://doi.org/10.1101/2025.02.17.638429'
+
 image:
-  caption: ''
+  caption: "Industry interests and scientific research. Author-presentation figure from [Pan-Jun Kim, Guardians 2024 (slide 11)](https://www.bhavi.us/pub/docs/BHAVI20241009Guardians-PKim.pdf#page=11)."
+  alt_text: "COX-2 paper and patent counts from 1990 to 2021, alongside the proportions of genes whose paper or patent activity declined first."
   focal_point: ''
   preview_only: false
 ---

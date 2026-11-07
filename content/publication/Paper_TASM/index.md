@@ -21,6 +21,7 @@ authors:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-05-15T00:00:00Z'
+publication_date: '2024'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +29,7 @@ publishDate: '2023-05-15T00:00:00Z'
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Technology Analysis & Strategic Management*
+publication: In *Technology Analysis & Strategic Management*, 36(11), 3417–3430
 publication_short: In *Technology Analysis & Strategic Management*
 
 abstract: This study attempted to construct a finance AI technology phylogenetic tree that represents the evolutionary pattern of finance AI technology and quantitatively measures the level of ethical attributes in the tree’s technological topics. Based on the tree, it was confirmed that the finance AI technology field is evolving in the direction of three research topics in 2021 -  deep learning, machine learning, and decision-making technology. Through NLP methodology, we proposed a model to measure the extent to which fairness, human right and normality, transparency and accountability, privacy and security, explainability, and performance guarantees are discussed among these topics
@@ -58,6 +59,8 @@ url_slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+doi: '10.1080/09537325.2023.2209214'
+
 image:
   caption: "Figure 5. Ethical profiles of deep learning, machine learning, and decision-making topics. Jeong et al. [Source](https://doi.org/10.1080/09537325.2023.2209214)."
   alt_text: "Radar charts comparing ethical dimensions of three technological topics in 2021."

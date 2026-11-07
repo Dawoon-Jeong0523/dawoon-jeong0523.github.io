@@ -27,7 +27,7 @@ publishDate: '2021-10-01T00:00:00Z'
 publication_types: ["article-journal-domestic"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Korea Technology Innovation Society*
+publication: In *Journal of Korea Technology Innovation Society*, 24(5), 919–949
 publication_short: In *Journal of Korea Technology Innovation Society*
 
 abstract: This study explores the evolution patterns and path dependencies of the mid-to-long-term plans in the Korean S&T field. Based on findings, we have tried to derive policy problems and policy implications. Accordingly, through quantitative analysis based on text network analysis and qualitative analysis based on focus group interview, we derived major policy problems in the mid-to-long-term plan establishment and execution system in Korea's science and technology field as follows - 1) Limits of adaptation to policy environment changes due to low autonomy, 2) Intensification of keyword discontinuity and limits to guarantee continuity of strategies, 3) Limits in securing consistency between policies due to limitations in coordination between ministries, 4) Limits in securing plan validity due to restrictions on evidence-based policymaking, 5) Decreased effectiveness of individual plans due to poor linkage between policies. Based on these problems, this study proposes key policy tasks to secure adaptability to future rapidly changing environmental changes and to improve the effectiveness of establishing and executing mid-to-long-term strategies in the science and technology field.
@@ -49,8 +49,11 @@ url_pdf: 'https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10622558'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+doi: '10.35978/jktis.2021.10.24.5.919'
+
 image:
-  caption: ''
+  caption: "Figure 4: evolution of keyword communities in medium- and long-term science and technology plans. Yeo et al. (2021), *Journal of Korea Technology Innovation Society*. [Source](https://doi.org/10.35978/jktis.2021.10.24.5.919)."
+  alt_text: "A lineage diagram tracing policy keyword communities across successive South Korean administrations."
   focal_point: ''
   preview_only: false
 

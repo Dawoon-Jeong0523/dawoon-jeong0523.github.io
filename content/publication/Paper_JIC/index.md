@@ -47,6 +47,8 @@ url_pdf: 'https://www.earticle.net/Article/A458257'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+doi: '10.22678/JIC.2024.22.11.001'
+
 image:
   caption: "Figure 2. Global research space for smart manufacturing. Shin, Jeong & Oh (2024). [Source](https://www.earticle.net/Article/A458257)."
   alt_text: "Network of research fields in the global academic literature on smart manufacturing."

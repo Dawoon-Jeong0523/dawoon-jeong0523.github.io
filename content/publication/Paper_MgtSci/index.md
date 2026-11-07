@@ -30,8 +30,13 @@ tags:
 
 featured: false
 
+links:
+  - name: Proceedings Abstract
+    url: 'https://doi.org/10.5465/AMPROC.2026.16045abstract'
+
 image:
-  caption: ''
+  caption: 'Research figure: distributions of reliance on disruptive science, 1980–2015. Source: [DME Lab at UNIST](https://sites.google.com/view/unistdme/research/working-papers#h.hef32ef7k8hn).'
+  alt_text: 'Density curves showing distributions of reliance on disruptive science from 1980 to 2015, colored by year.'
   focal_point: ''
   preview_only: false
 ---

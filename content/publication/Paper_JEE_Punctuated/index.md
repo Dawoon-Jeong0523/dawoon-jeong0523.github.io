@@ -18,6 +18,10 @@ tags:
 - Punctuated Equilibrium
 - Technical Capabilities
 featured: false
+links:
+  - name: Preprint
+    url: 'https://arxiv.org/abs/2610.26971'
+
 image:
   caption: 'Figure 1, M’Hamdi & Jeong, [arXiv:2610.26971](https://arxiv.org/abs/2610.26971).'
   alt_text: 'Memory-clock capability trajectories and schematic definitions of technological frontiers, product positions, and forecasting inputs.'

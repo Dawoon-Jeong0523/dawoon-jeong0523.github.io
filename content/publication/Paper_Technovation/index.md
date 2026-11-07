@@ -25,7 +25,7 @@ publishDate: '2024-03-01T00:00:00Z'
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Technovation*
+publication: In *Technovation*, 131, 102958
 publication_short: In *Technovation*
 
 abstract: Deriving a product lineage within a phylogenetic tree to identify the product development trajectory and quantitatively measure innovativeness by measuring the average information content of the product's technical characteristics. The cyclical pattern of changes in the innovativeness in product lineage was modeled, referred to as the product lineage life cycle (PLLC) model
@@ -55,6 +55,8 @@ url_slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+doi: '10.1016/j.technovation.2024.102958'
+
 image:
   caption: "Mobile product lineages from Jeong & Lee (2024), *Technovation*. [Source](https://doi.org/10.1016/j.technovation.2024.102958)."
   alt_text: "Mobile product phylogenetic tree with Apple, Samsung, Nokia, and other manufacturers distinguished by color."

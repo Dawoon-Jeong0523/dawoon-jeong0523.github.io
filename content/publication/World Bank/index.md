@@ -48,7 +48,7 @@ featured: False
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099032124063537994/p1770151f0870f0a21bff71b52c2fd5976f'
+url_pdf: 'https://documents1.worldbank.org/curated/en/099032124063537994/pdf/P1770151f0870f0a21bff71b52c2fd5976f.pdf'
 url_code: 'https://github.com/Dawoon-Jeong0523/Economic-Complexity/blob/main/World_Bank_Project.ipynb'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''

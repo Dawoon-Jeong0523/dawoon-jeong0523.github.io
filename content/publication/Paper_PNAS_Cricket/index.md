@@ -30,6 +30,10 @@ tags:
 - Legal Complexity
 - Cricket
 featured: true
+links:
+  - name: Preprint
+    url: 'https://arxiv.org/abs/2607.05586'
+
 image:
   caption: "Figure 4: evolution of cricket rule trees, 1774-2019. Chia et al., [arXiv:2607.05586v1](https://arxiv.org/html/2607.05586v1#Sx2.F4), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
   alt_text: "Four cricket rule trees from 1774, 1902, 1939, and 2019, paired with excerpts from their rule books."

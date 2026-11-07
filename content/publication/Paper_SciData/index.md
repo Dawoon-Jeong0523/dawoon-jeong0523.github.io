@@ -38,6 +38,8 @@ featured: true
 url_pdf: 'https://doi.org/10.1038/s41597-025-06313-w'
 url_dataset: 'https://doi.org/10.6084/m9.figshare.29540039'
 
+doi: '10.1038/s41597-025-06313-w'
+
 image:
   caption: "Figure 1. Construction and structure of the US Legal Code dataset. Jeong et al. (2026), *Scientific Data*. [Source](https://doi.org/10.1038/s41597-025-06313-w)."
   alt_text: "Workflow linking historical US Code sources to the hierarchy and citation structure of the legal code."

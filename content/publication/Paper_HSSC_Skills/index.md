@@ -29,6 +29,10 @@ tags:
 
 featured: false
 
+links:
+  - name: Preprint
+    url: 'https://arxiv.org/abs/2506.12960'
+
 image:
   caption: 'Figure 1 (preprint version): general and specialized skills in the skill network. Lee, Jeong & Lee, [arXiv:2506.12960v1](https://arxiv.org/html/2506.12960v1#Sx3.F1). [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Unmodified.'
   alt_text: 'Skill-network communities showing general skills at the core and cognitive and physical specializations.'
