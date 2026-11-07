@@ -1,0 +1,6 @@
+{{- $contributions := partial "functions/get_author_contributions" . -}}
+{{- with $contributions.co_first -}}
+<div class="publication-contributions mt-1 text-sm text-gray-500 dark:text-gray-400">
+  <strong>&dagger; Co-first author{{ if gt (len .) 1 }}s{{ end }}</strong>{{ with $contributions.corresponding }}<span> &middot; * Corresponding author{{ if gt (len .) 1 }}s{{ end }}</span>{{ end }}
+</div>
+{{- end -}}

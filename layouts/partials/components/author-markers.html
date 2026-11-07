@@ -1,0 +1,7 @@
+{{/* Keep combined markers in CV order: equal contribution, then correspondence. */}}
+{{- if in .contributions.co_first .index -}}
+<sup class="co-first-marker" title="Co-first author" aria-label="Co-first author">&dagger;</sup>
+{{- end -}}
+{{- if in .contributions.corresponding .index -}}
+<sup class="corresponding-author-marker" title="Corresponding author" aria-label="Corresponding author">*</sup>
+{{- end -}}

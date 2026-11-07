@@ -44,6 +44,7 @@
         {{- end -}}
         {{- if and $displayDate .Params.authors }}<span class="mx-1">·</span>{{ end -}}
 
+        {{ $authorContributions := partial "functions/get_author_contributions" . }}
         {{ $taxonomy := "authors" }}
         {{ range $i, $author_obj := (.GetTerms $taxonomy) }}
           {{ $author_page := $author_obj.Page }}
@@ -57,7 +58,14 @@
             {{ $avatar = $avatar.Process "Fill 50x50 Center webp" }}
             <img src="{{ $avatar.RelPermalink }}" alt="{{ $author_page.Title }}" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
             {{ end }}
-            <div {{if $author_page.Params.website}}class="group-hover:underline"{{end}}>{{ $author_page.Title }}</div>
+            <div {{if $author_page.Params.website}}class="group-hover:underline"{{end}} {{ if eq $.Section "publication" }}data-publication-author="{{ $i }}"{{ end }}>
+              {{- if eq $.Section "publication" -}}
+                {{- replaceRE "[*]+$" "" $author_page.Title -}}
+                {{- partial "components/author-markers" (dict "contributions" $authorContributions "index" $i) -}}
+              {{- else -}}
+                {{- $author_page.Title -}}
+              {{- end -}}
+            </div>
           </div>
           {{ with $author_page.Params.website }}
           </a>
@@ -71,6 +79,8 @@
         </span>
         {{ end }}
         </div>
+
+        {{ partial "components/author-contributions" . }}
 
         <div class="mt-3">
           {{ partial "page_links_div.html" . }}

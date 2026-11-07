@@ -1,6 +1,6 @@
-{{/* Display authors with optional co-first markers supplied by a calling view. */}}
+{{/* Display publication contribution markers consistently in every author list. */}}
 {{- $page := .page -}}
-{{- $coFirstIndices := .co_first_indices | default (slice) -}}
+{{- $contributions := partial "functions/get_author_contributions" $page -}}
 
 {{- $taxonomy := "authors" }}
 {{ if $page.Param $taxonomy }}
@@ -8,20 +8,20 @@
     {{- /* Highlight the author's name? */ -}}
     {{- $highlight_name := .Page.Params.highlight_name | default false -}}
     {{- $is_profile_author := eq (replaceRE "[*]+$" "" .LinkTitle) "Dawoon Jeong" -}}
+    {{- $displayName := .LinkTitle -}}
+    {{- if eq $page.Section "publication" }}{{ $displayName = replaceRE "[*]+$" "" $displayName }}{{ end -}}
 
     {{- if gt $index 0 }}, {{ end -}}
     <span{{ if or $highlight_name $is_profile_author }} class="{{ if $highlight_name }}font-bold {{ end }}{{ if $is_profile_author }}author-profile-name{{ end }}"{{ end }}>
       {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
       {{- if .RelPermalink -}}
-        <a href="{{.RelPermalink}}">{{.LinkTitle}}</a>
+        <a href="{{.RelPermalink}}">{{ $displayName }}</a>
       {{- else -}}
-        {{ .LinkTitle }}
+        {{ $displayName }}
       {{- end -}}
-      {{- if in $coFirstIndices $index -}}
-      <sup class="co-first-marker" title="Co-first author" aria-label="Co-first author">&dagger;</sup>
-      {{- end -}}
+      {{- partial "components/author-markers" (dict "contributions" $contributions "index" $index) -}}
     </span>
-    {{- if isset $page.Params "author_notes" -}}
+    {{- if lt $index (len ($page.Params.author_notes | default (slice))) -}}
       {{- with (index $page.Params.author_notes $index) -}}
         <i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
       {{- end -}}

@@ -1,0 +1,20 @@
+{{/* Publication contribution markers come from author notes, with legacy stars preserved. */}}
+{{- $coFirst := slice -}}
+{{- $corresponding := slice -}}
+{{- if eq .Section "publication" -}}
+  {{- $notes := .Params.author_notes | default (slice) -}}
+  {{- range $index, $author := (.GetTerms "authors") -}}
+    {{- $isCoFirst := false -}}
+    {{- $isCorresponding := gt (len (findRE "[*]$" $author.LinkTitle)) 0 -}}
+    {{- if lt $index (len $notes) -}}
+      {{- range split (lower (printf "%v" (index $notes $index))) "," -}}
+        {{- $role := trim . " " -}}
+        {{- if eq $role "co-first author" }}{{ $isCoFirst = true }}{{ end -}}
+        {{- if eq $role "corresponding author" }}{{ $isCorresponding = true }}{{ end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $isCoFirst }}{{ $coFirst = $coFirst | append $index }}{{ end -}}
+    {{- if $isCorresponding }}{{ $corresponding = $corresponding | append $index }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "co_first" $coFirst "corresponding" $corresponding) -}}
