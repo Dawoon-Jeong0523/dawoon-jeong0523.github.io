@@ -76,6 +76,21 @@
         <div class="publication-authors">
           {{ partial "page_metadata_authors" $item }}{{ if $bibliographyYear }} <span class="publication-year">({{ $bibliographyYear }}).</span>{{ else }}.{{ end }}
         </div>
+        {{ $coFirstAuthors := slice }}
+        {{ $authorTerms := $item.GetTerms "authors" }}
+        {{ range $index, $note := $item.Params.author_notes }}
+          {{ if lt $index (len $authorTerms) }}
+            {{ range split (lower (printf "%v" $note)) "," }}
+              {{ if eq (trim . " ") "co-first author" }}
+                {{ $authorTerm := index $authorTerms $index }}
+                {{ $coFirstAuthors = $coFirstAuthors | append (replaceRE "[*]+$" "" $authorTerm.LinkTitle) }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        {{ with $coFirstAuthors }}
+        <div class="publication-contributions"><strong>Co-first author{{ if gt (len .) 1 }}s{{ end }}:</strong> {{ delimit . ", " }}</div>
+        {{ end }}
         {{ with ($item.Params.publication | default $item.Params.publication_short) }}
         <div class="publication-venue">{{ . | markdownify }}</div>
         {{ end }}
