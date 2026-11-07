@@ -227,7 +227,7 @@ I am a Postdoctoral Scholar at the Knowledge Lab in the Department of Sociology,
 
 By reconstructing product lineages and linking products to patents and research papers, I trace how technical capabilities emerge, persist, and spread across product families. My research combines network analysis, evolutionary modeling, and text-based representations to examine innovation and knowledge assembly. I also use historical records to study how legal and regulatory systems evolve over time.
 
-I continue to collaborate with Hyejin Youn, my former PI and mentor, and with researchers at the Santa Fe Institute (SFI), Seoul National University (SNU), KDI, the Kellogg School of Management at Northwestern University, UNIST, the University of Virginia, and Rikkyo University.
+I continue to collaborate with Hyejin Youn, my former PI and mentor, and with researchers at the Santa Fe Institute (SFI), Seoul National University (SNU), KDI School of Public Policy and Management, the Kellogg School of Management at Northwestern University, UNIST, the University of Virginia, and Rikkyo University.
 
 I also publish as Dawoon Jung.
 
