@@ -183,11 +183,15 @@ sections:
 
         <a href="https://dawoon-jeong0523.github.io/SciSci/metrics_dashboard.html" target="_blank" rel="noopener"><img src="/uploads/data-software/scisci-dashboard.jpg" alt="First screen of the Science of Science Metrics Dashboard, showing the Metrics Ledger overview and research data summaries." width="1440" height="960" loading="lazy" decoding="async" style="width:100%;height:auto;border:1px solid #e5e7eb;border-radius:12px;"></a>
 
+        <hr class="data-software-divider">
+
         **Economic Complexity Dashboard**
 
         <a href="https://dawoon-jeong0523.github.io/EC_dashboard/dashboard.html" target="_blank" rel="noopener"><img src="/uploads/data-software/economic-complexity-dashboard.jpg" alt="First screen of the Economic Complexity Dashboard, showing dataset selectors, country summaries, and ranking charts." width="1440" height="960" loading="lazy" decoding="async" style="width:100%;height:auto;border:1px solid #e5e7eb;border-radius:12px;"></a>
 
         Explore economic complexity, diversification, product space, and national capabilities. [Open dashboard](https://dawoon-jeong0523.github.io/EC_dashboard/dashboard.html)
+
+        <hr class="data-software-divider">
 
         **A Century of Evolution in the Complexity of the United States Legal Code**
 

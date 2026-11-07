@@ -252,3 +252,10 @@
   font-size: 0.875em;
   line-height: 1.6;
 }
+
+/* Separate complete data and software entries with a clear, spaced rule. */
+#data-software .data-software-divider {
+  margin-block: clamp(2rem, 4vw, 3rem);
+  border: 0;
+  border-top: 1px solid #94a3b8;
+}
