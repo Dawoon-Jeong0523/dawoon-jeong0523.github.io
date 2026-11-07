@@ -1,6 +1,9 @@
 ---
 title: 'Contrasting Pathways of Automation: Routine Task Substitution vs. AI Complementarity'
 
+aliases:
+  - /publication/paper_occupation/
+
 # Authors
 authors:
   - Soohyoung Lee
