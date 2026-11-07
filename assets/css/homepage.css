@@ -123,3 +123,10 @@
     min-height: 2.7em;
   }
 }
+
+
+/* Emphasize the profile author in peer-reviewed publication lists. */
+#reviewed-articles .li-cite-author .author-profile-name,
+#reviewed-articles-domestic .li-cite-author .author-profile-name {
+  font-weight: 700;
+}
