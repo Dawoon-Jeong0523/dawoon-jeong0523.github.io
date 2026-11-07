@@ -223,9 +223,11 @@ awards:
 
 ## About Me
 
-I am a Postdoctoral Scholar at the Knowledge Lab in the Department of Sociology, The University of Chicago, working with James Evans. I study how products evolve and how they draw on scientific knowledge.
+I am a Postdoctoral Scholar at the Knowledge Lab in the Department of Sociology, The University of Chicago, working with James Evans. My interdisciplinary background combines training in physics and engineering with research in computational social science. I study how products evolve and how they draw on scientific knowledge.
 
 By reconstructing product lineages and linking products to patents and research papers, I trace how technical capabilities emerge, persist, and spread across product families. My research combines network analysis, evolutionary modeling, and text-based representations to examine innovation and knowledge assembly. I also use historical records to study how legal and regulatory systems evolve over time.
+
+I continue to collaborate with Hyejin Youn, my former PI and mentor, and with researchers at the Santa Fe Institute (SFI).
 
 I also publish as Dawoon Jung.
 
