@@ -45,7 +45,7 @@ sections:
 
         **Institutional evolution and complexity**
 
-        I use historical records and network analysis to study the evolution of laws and regulatory systems, including the United States Legal Code and the Laws of Cricket.
+        I use historical records and network analysis to study the evolution and complexity of rule systems, including the U.S. Code, sports rules, and regulations.
 
         [Explore research projects](/projects/) · [Get in touch](mailto:jdwoon0523@uchicago.edu)
 
