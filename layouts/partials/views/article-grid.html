@@ -72,24 +72,23 @@
         {{ $bibliographyYear = "" }}
         {{ if findRE "^[0-9]{4}$" (printf "%v" .) }}{{ $bibliographyYear = printf "%v" . }}{{ end }}
       {{ end }}
-      <div class="publication-bibliography text-gray-500 dark:text-gray-400">
-        <div class="publication-authors">
-          {{ partial "page_metadata_authors" $item }}{{ if $bibliographyYear }} <span class="publication-year">({{ $bibliographyYear }}).</span>{{ else }}.{{ end }}
-        </div>
-        {{ $coFirstAuthors := slice }}
-        {{ $authorTerms := $item.GetTerms "authors" }}
-        {{ range $index, $note := $item.Params.author_notes }}
-          {{ if lt $index (len $authorTerms) }}
-            {{ range split (lower (printf "%v" $note)) "," }}
-              {{ if eq (trim . " ") "co-first author" }}
-                {{ $authorTerm := index $authorTerms $index }}
-                {{ $coFirstAuthors = $coFirstAuthors | append (replaceRE "[*]+$" "" $authorTerm.LinkTitle) }}
-              {{ end }}
+      {{ $coFirstIndices := slice }}
+      {{ $authorTerms := $item.GetTerms "authors" }}
+      {{ range $index, $note := $item.Params.author_notes }}
+        {{ if lt $index (len $authorTerms) }}
+          {{ range split (lower (printf "%v" $note)) "," }}
+            {{ if eq (trim . " ") "co-first author" }}
+              {{ $coFirstIndices = $coFirstIndices | append $index }}
             {{ end }}
           {{ end }}
         {{ end }}
-        {{ with $coFirstAuthors }}
-        <div class="publication-contributions"><strong>Co-first author{{ if gt (len .) 1 }}s{{ end }}:</strong> {{ delimit . ", " }}</div>
+      {{ end }}
+      <div class="publication-bibliography text-gray-500 dark:text-gray-400">
+        <div class="publication-authors">
+          {{ partial "components/author-list" (dict "page" $item "co_first_indices" $coFirstIndices) }}{{ if $bibliographyYear }} <span class="publication-year">({{ $bibliographyYear }}).</span>{{ else }}.{{ end }}
+        </div>
+        {{ with $coFirstIndices }}
+        <div class="publication-contributions"><strong>&dagger; Co-first author{{ if gt (len .) 1 }}s{{ end }}</strong></div>
         {{ end }}
         {{ with ($item.Params.publication | default $item.Params.publication_short) }}
         <div class="publication-venue">{{ . | markdownify }}</div>
