@@ -221,3 +221,26 @@
 .blox-resume-biography-3 .research-image-link:focus-visible {
   outline-color: #a7f3d0;
 }
+
+
+/* Complete, readable citations beneath featured publication titles. */
+#papers .publication-bibliography {
+  margin-top: 1rem;
+  font-size: 0.9375rem;
+  line-height: 1.6;
+  cursor: default;
+}
+
+#papers .publication-bibliography > div + div {
+  margin-top: 0.5rem;
+}
+
+#papers .publication-authors .author-profile-name {
+  font-weight: 700;
+}
+
+#papers .publication-identifier a {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+  overflow-wrap: anywhere;
+}

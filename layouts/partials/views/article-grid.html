@@ -60,6 +60,36 @@
         {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp -}}
       </a></p>
       </div>
+      {{ if $is_publication }}
+      {{/* Bibliographic years use publication metadata; accepted papers have no invented year. */}}
+      {{ $bibliographyYear := "" }}
+      {{ if not $item.Date.IsZero }}
+        {{ $bibliographyYear = $item.Date.Format "2006" }}
+      {{ else if not $item.PublishDate.IsZero }}
+        {{ $bibliographyYear = $item.PublishDate.Format "2006" }}
+      {{ end }}
+      {{ with $item.Params.publication_date }}
+        {{ $bibliographyYear = "" }}
+        {{ if findRE "^[0-9]{4}$" (printf "%v" .) }}{{ $bibliographyYear = printf "%v" . }}{{ end }}
+      {{ end }}
+      <div class="publication-bibliography text-gray-500 dark:text-gray-400">
+        <div class="publication-authors">
+          {{ partial "page_metadata_authors" $item }}{{ if $bibliographyYear }} <span class="publication-year">({{ $bibliographyYear }}).</span>{{ else }}.{{ end }}
+        </div>
+        {{ with ($item.Params.publication | default $item.Params.publication_short) }}
+        <div class="publication-venue">{{ . | markdownify }}</div>
+        {{ end }}
+        {{ with $item.Params.doi }}
+        <div class="publication-identifier"><a href="{{ printf "https://doi.org/%s" . }}" target="_blank" rel="noopener">DOI: {{ . }}</a></div>
+        {{ else }}
+          {{ range $item.Params.links }}
+            {{ if eq .name "Preprint" }}
+        <div class="publication-identifier"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a></div>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </div>
+      {{ else }}
       <div class="flex-none">
         <div class="mt-3 flex items-center space-x-3 text-gray-500 dark:text-gray-400 cursor-default">
           <!--          <a href="">-->
@@ -100,6 +130,7 @@
           {{ end }}
         </div>
       </div>
+      {{ end }}
 
     </div>
   </div>
