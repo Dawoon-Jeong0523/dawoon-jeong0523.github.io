@@ -17,9 +17,8 @@ publishDate: '2024-05-31T00:00:00Z'
 publication_date: '2nd Revise & Resubmit'
 
 # Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["preprint (R&R)"]
+# Keep the R&R detail-page label while including this paper in the preprint collection.
+publication_types: ["preprint (R&R)", "preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *The World Economy* (2nd Revise & Resubmit)

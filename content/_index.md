@@ -139,25 +139,13 @@ sections:
   - block: collection
     id: under-review
     content:
-      title: Submitted & Under Review
+      title: Papers Under Review
       text: ""
       count: 0
       filters:
         folders:
           - publication
         publication_type: 'preprint'
-    design:
-      view: citation
-  - block: collection
-    id: under-review-rr
-    content:
-      title: Manuscripts in R&R
-      text: ""
-      count: 0
-      filters:
-        folders:
-          - publication
-        publication_type: 'preprint (R&R)'
     design:
       view: citation
 # Working Papers section hidden by request — uncomment to restore

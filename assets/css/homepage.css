@@ -158,8 +158,7 @@
 /* Emphasize the profile author in reviewed and submitted publication lists. */
 #reviewed-articles .li-cite-author .author-profile-name,
 #reviewed-articles-domestic .li-cite-author .author-profile-name,
-#under-review .li-cite-author .author-profile-name,
-#under-review-rr .li-cite-author .author-profile-name {
+#under-review .li-cite-author .author-profile-name {
   font-weight: 700;
 }
 
