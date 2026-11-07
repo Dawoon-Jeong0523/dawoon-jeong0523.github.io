@@ -86,7 +86,9 @@
     "background": "#153746",
     "url": "https://academic.oup.com/icc",
     "source": "https://oup.silverchair-cdn.com/data/SiteBuilderAssets/Live/Images/icc/icc_f11536728305.svg",
-    "sha256": "a4e17f8eb7db18b6fd51c0ebd732091b85cdee2a8186801b96e450ac7580c1c7"
+    "sha256": "fee4f4b03771bc742e574e864fa3c0e905d4f3288602e8763bfd2fc29016abd9",
+    "source_sha256": "a4e17f8eb7db18b6fd51c0ebd732091b85cdee2a8186801b96e450ac7580c1c7",
+    "asset_note": "SVG line endings normalized to LF; original artwork unchanged."
   },
   "ieee-tem": {
     "name": "IEEE Transactions on Engineering Management",
