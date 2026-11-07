@@ -23,8 +23,8 @@ publishDate: '2026-11-07T00:00:00Z'
 publication_date: Accepted
 publication_types:
 - article-journal
-publication: In *Proceedings of the National Academy of Sciences* (Accepted)
-publication_short: In *PNAS* (Accepted)
+publication: In *Proceedings of the National Academy of Sciences (PNAS)* (Accepted)
+publication_short: In *Proceedings of the National Academy of Sciences (PNAS)* (Accepted)
 tags:
 - Regulatory Evolution
 - Legal Complexity
