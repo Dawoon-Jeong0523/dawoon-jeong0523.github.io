@@ -38,6 +38,14 @@
            width="{{ $image.Width }}"></a>
   </div>
   {{end}}
+  {{/* Journal marks are shown only in the homepage Featured Publications block. */}}
+  {{ if and $is_publication (reflect.IsMap .page) }}
+    {{ if eq .page.id "papers" }}
+      {{ with $item.Params.journal_logo }}
+        {{ partial "components/journal-logo" . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
   <div class="">
     <div class="">
       <div class="flex gap-3">

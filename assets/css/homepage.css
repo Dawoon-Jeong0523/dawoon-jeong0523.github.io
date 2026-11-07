@@ -258,3 +258,88 @@
   border: 0;
   border-top: 1px solid #94a3b8;
 }
+
+/* Journal marks complement the research figures on Featured Publications. */
+#papers .publication-journal {
+  margin-top: 1rem;
+  cursor: default;
+}
+
+#papers .journal-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 252px;
+  max-width: 100%;
+  height: 64px;
+  padding: 10px 12px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  background: #fff;
+}
+
+#papers .journal-logo-window {
+  position: relative;
+  display: block;
+  flex: 0 0 auto;
+  overflow: hidden;
+}
+
+#papers .journal-logo-window img {
+  display: block;
+  max-width: none;
+  margin: 0;
+}
+
+#papers .journal-badge--pnas {
+  background: #153746;
+  border-color: #153746;
+}
+
+#papers .journal-badge--pnas img {
+  width: 108px;
+  height: auto;
+}
+
+#papers .journal-badge--scientific-data img {
+  width: 215px;
+  height: auto;
+}
+
+/* Original 576 x 768 cover; title window x34 y111 w506 h64. */
+#papers .journal-badge--technovation {
+  background: #000;
+  border-color: #000;
+}
+
+#papers .journal-badge--technovation .journal-logo-window {
+  width: 227.7px;
+  height: 28.8px;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 78% 100%, 78% 83%, 0 83%);
+}
+
+#papers .journal-badge--technovation img {
+  position: absolute;
+  width: 259.2px;
+  height: 345.6px;
+  left: -15.3px;
+  top: -49.95px;
+}
+
+/* Original 120 x 187 cover; title window x10 y43 w96 h29. */
+#papers .journal-badge--scientometrics {
+  background: #f5efd9;
+}
+
+#papers .journal-badge--scientometrics .journal-logo-window {
+  width: 144px;
+  height: 43.5px;
+}
+
+#papers .journal-badge--scientometrics img {
+  position: absolute;
+  width: 180px;
+  height: 280.5px;
+  left: -15px;
+  top: -64.5px;
+}

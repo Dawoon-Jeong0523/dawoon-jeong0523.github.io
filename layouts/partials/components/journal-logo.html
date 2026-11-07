@@ -1,0 +1,8 @@
+{{/* Keep supplied originals intact; CSS windows show only the journal names. */}}
+<div class="publication-journal">
+  <span class="journal-badge journal-badge--{{ .variant }}">
+    <span class="journal-logo-window">
+      <img src="{{ .image | relURL }}" alt="{{ .name }}" width="{{ .width }}" height="{{ .height }}" loading="lazy" decoding="async">
+    </span>
+  </span>
+</div>

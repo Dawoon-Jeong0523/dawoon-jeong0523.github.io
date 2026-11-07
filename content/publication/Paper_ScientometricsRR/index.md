@@ -33,6 +33,12 @@ tags:
   - Actor Heterogeneity
 
 featured: true
+journal_logo:
+  image: /uploads/journals/scientometrics.png
+  name: "Scientometrics"
+  variant: scientometrics
+  width: 120
+  height: 187
 
 image:
   caption: 'Figure 4: the Korean R&D actor space. Jeong et al. (2026), [Scientometrics](https://link.springer.com/article/10.1007/s11192-026-05761-4/figures/4). [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Unmodified.'

@@ -34,6 +34,12 @@ tags:
   - Legal Systems
 
 featured: true
+journal_logo:
+  image: /uploads/journals/scientific-data.png
+  name: "Scientific Data"
+  variant: scientific-data
+  width: 251
+  height: 32
 
 url_pdf: 'https://doi.org/10.1038/s41597-025-06313-w'
 url_dataset: 'https://doi.org/10.6084/m9.figshare.29540039'

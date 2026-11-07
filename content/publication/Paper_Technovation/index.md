@@ -38,6 +38,12 @@ tags:
 
 # Display this page in the Featured widget?
 featured: true
+journal_logo:
+  image: /uploads/journals/technovation.png
+  name: "Technovation"
+  variant: technovation
+  width: 576
+  height: 768
 
 # Custom links (uncomment lines below)
 # links:
