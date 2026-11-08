@@ -78,8 +78,8 @@ links:
     url: 'https://doi.org/10.1101/2025.02.17.638429'
 
 image:
-  caption: "Industry interests and scientific research. Author-presentation figure from [Pan-Jun Kim, Guardians 2024 (slide 11)](https://www.bhavi.us/pub/docs/BHAVI20241009Guardians-PKim.pdf#page=11)."
-  alt_text: "COX-2 paper and patent counts from 1990 to 2021, alongside the proportions of genes whose paper or patent activity declined first."
+  caption: "Figure 1. Gene-level trends in scientific papers and patents, with changing rankings of research targets. [Chae et al. (2025)](https://doi.org/10.1101/2025.02.17.638429). Image supplied by the author."
+  alt_text: "Six panels comparing genetic research in papers and patents. A-D show annual paper counts in blue and patent counts in red for hemoglobin, Cas9, ACE2, and COX-2. E-F compare leading research targets across the full study periods and their final five years: 1990-2021 versus 2017-2021 for papers, and 1990-2020 versus 2016-2020 for patents."
   focal_point: ''
   preview_only: false
 ---
