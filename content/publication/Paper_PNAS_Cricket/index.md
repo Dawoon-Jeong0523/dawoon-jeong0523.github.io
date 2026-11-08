@@ -30,12 +30,13 @@ tags:
 - Legal Complexity
 - Cricket
 featured: true
-journal_logo:
-  image: /uploads/journals/pnas.png
-  name: "Proceedings of the National Academy of Sciences (PNAS)"
-  variant: pnas
-  width: 280
-  height: 104
+# PNAS logo hidden on the website while the paper is under review; logo file is kept in the repo.
+# journal_logo:
+#   image: /uploads/journals/pnas.png
+#   name: "Proceedings of the National Academy of Sciences (PNAS)"
+#   variant: pnas
+#   width: 280
+#   height: 104
 links:
   - name: Preprint
     url: 'https://arxiv.org/abs/2607.05586'
