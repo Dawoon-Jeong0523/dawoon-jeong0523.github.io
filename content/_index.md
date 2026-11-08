@@ -15,10 +15,10 @@ sections:
       username: admin
       text: ""
       overview:
-        image: /uploads/research/research-overview.webp
-        alt: "Dawoon Jeong's career, including Santa Fe Institute visits, alongside product lineages linking papers, patents and devices, rule evolution, and schematic scaling analysis."
-        width: 1448
-        height: 1086
+        image: /uploads/research/research-overview-four-pillars.png
+        alt: "Dawoon Jeong's career and Santa Fe Institute visits alongside four research themes: product evolution, science-technology connections, rule evolution, and economic complexity, with schematic scaling and diversification diagrams."
+        width: 1536
+        height: 1024
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -69,6 +69,15 @@ sections:
             </figure>
             <h3>Rule evolution and complexity</h3>
             <p>I use historical records and network analysis to study the evolution and complexity of rule systems, including the U.S. Code, sports rules, and regulations.</p>
+          </article>
+          <article class="research-theme">
+            <figure class="research-theme-figure">
+              <a class="research-image-link" href="/uploads/research/economic-complexity.png" target="_blank" rel="noopener" aria-label="Open the economic complexity illustration at full size">
+                <img src="/uploads/research/economic-complexity.png" alt="A capability matrix and product-technology network with a highlighted diversification path, alongside university, firm, and public research institute motifs." width="1536" height="1024" loading="lazy" decoding="async">
+              </a>
+            </figure>
+            <h3>Economic complexity</h3>
+            <p>I study how countries and industries build productive and technological capabilities and diversify into new activities. By mapping product-technology spaces and research portfolios, I examine development pathways and the different roles of firms, universities, and public research institutes.</p>
           </article>
         </div>
         <div class="research-links">
