@@ -344,6 +344,25 @@
   top: -64.5px;
 }
 
+/* Original 827 x 1098 cover; title window x50 y112 w610 h165. */
+#papers .journal-badge--epj-data-science {
+  background: #42746b;
+  border-color: #42746b;
+}
+
+#papers .journal-badge--epj-data-science .journal-logo-window {
+  width: 162.667px;
+  height: 44px;
+}
+
+#papers .journal-badge--epj-data-science img {
+  position: absolute;
+  width: 220.533px;
+  height: 292.8px;
+  left: -13.333px;
+  top: -29.867px;
+}
+
 /* A single row of journal names beneath the peer-reviewed publications heading. */
 #reviewed-articles > .max-w-prose {
   max-width: 100rem;

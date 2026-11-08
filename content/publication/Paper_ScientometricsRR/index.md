@@ -32,10 +32,7 @@ tags:
   - National Innovation System
   - Actor Heterogeneity
 
-featured: true
-featured_order: 4
-featured_finding: >-
-  Mapping research portfolio similarities reveals a densely connected university core and more differentiated firms and government research institutes within Korea’s government-funded R&D system.
+featured: false
 journal_logo:
   image: /uploads/journals/scientometrics.png
   name: "Scientometrics"

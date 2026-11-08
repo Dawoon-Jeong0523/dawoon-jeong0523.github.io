@@ -62,7 +62,16 @@ tags:
   - Genetic Research
   - Innovation Indicators
 
-featured: false
+featured: true
+featured_order: 2
+featured_finding: >-
+  Comparing gene-related papers and patents reveals that patenting activity often declines before scientific attention, suggesting that commercial interest and long-term scientific exploration can diverge.
+journal_logo:
+  image: /uploads/journals/epj-data-science.png
+  name: "EPJ Data Science"
+  variant: epj-data-science
+  width: 827
+  height: 1098
 
 links:
   - name: Preprint

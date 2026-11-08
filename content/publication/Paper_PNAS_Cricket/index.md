@@ -30,7 +30,7 @@ tags:
 - Legal Complexity
 - Cricket
 featured: true
-featured_order: 3
+featured_order: 4
 featured_finding: >-
   Cricket rule trees reveal abrupt reorganizations into deeper hierarchies, showing how rules became more specific as the rule book evolved over nearly three centuries.
 # PNAS logo hidden on the website while the paper is under review; logo file is kept in the repo.
