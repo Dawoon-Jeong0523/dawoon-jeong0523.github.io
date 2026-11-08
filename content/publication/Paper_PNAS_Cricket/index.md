@@ -20,11 +20,11 @@ author_notes:
 - Corresponding Author
 # Website entry date; no publication date has been assigned.
 publishDate: '2026-11-07T00:00:00Z'
-publication_date: Accepted
+publication_date: Under review
 publication_types:
-- article-journal
-publication: In *Proceedings of the National Academy of Sciences (PNAS)* (Accepted)
-publication_short: In *Proceedings of the National Academy of Sciences (PNAS)* (Accepted)
+- preprint
+publication: In *Proceedings of the National Academy of Sciences (PNAS)* (Under review)
+publication_short: In *Proceedings of the National Academy of Sciences (PNAS)* (Under review)
 tags:
 - Regulatory Evolution
 - Legal Complexity

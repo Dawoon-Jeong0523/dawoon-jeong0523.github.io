@@ -104,7 +104,6 @@ sections:
     content:
       title: Peer-Reviewed Publications
       journal_logos:
-        - pnas
         - scientific-data
         - scientometrics
         - technovation
