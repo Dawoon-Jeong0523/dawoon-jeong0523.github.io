@@ -72,8 +72,8 @@ sections:
           </article>
           <article class="research-theme">
             <figure class="research-theme-figure">
-              <a class="research-image-link" href="/uploads/research/economic-complexity.png" target="_blank" rel="noopener" aria-label="Open the economic complexity illustration at full size">
-                <img src="/uploads/research/economic-complexity.png" alt="A capability matrix and product-technology network with a highlighted diversification path, alongside university, firm, and public research institute motifs." width="1536" height="1024" loading="lazy" decoding="async">
+              <a class="research-image-link" href="/uploads/research/economic-complexity-core-periphery.png" target="_blank" rel="noopener" aria-label="Open the economic complexity illustration at full size">
+                <img src="/uploads/research/economic-complexity-core-periphery.png" alt="Simple products such as textiles, wood, grain, and glass sit at the sparse periphery of a product network, while semiconductors, precision machinery, solar panels, and batteries occupy its densely connected center. A dashed path indicates diversification toward the center." width="1536" height="1024" loading="lazy" decoding="async">
               </a>
             </figure>
             <h3>Economic complexity</h3>
