@@ -402,3 +402,11 @@
   outline: 3px solid #047857;
   outline-offset: 2px;
 }
+
+/* Keep the main finding fully readable above each featured citation. */
+#papers .publication-finding {
+  margin-top: 0.75rem;
+  font-size: 1rem;
+  line-height: 1.65;
+  cursor: text;
+}

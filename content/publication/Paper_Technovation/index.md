@@ -38,6 +38,9 @@ tags:
 
 # Display this page in the Featured widget?
 featured: true
+featured_order: 1
+featured_finding: >-
+  Reconstructing mobile-product lineages reveals cyclical changes in innovativeness, captured by a product lineage life cycle model.
 journal_logo:
   image: /uploads/journals/technovation.png
   name: "Technovation"

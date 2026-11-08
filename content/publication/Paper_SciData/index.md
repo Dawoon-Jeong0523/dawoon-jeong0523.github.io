@@ -34,6 +34,9 @@ tags:
   - Legal Systems
 
 featured: true
+featured_order: 2
+featured_finding: >-
+  We recovered historical U.S. Code text and combined it with modern structural data, creating an open dataset spanning 1926–2023 for studying legal complexity.
 journal_logo:
   image: /uploads/journals/scientific-data.png
   name: "Scientific Data"

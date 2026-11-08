@@ -82,6 +82,8 @@ sections:
     content:
       title: Featured Publications
       count: 4
+      sort_by: featured_order
+      sort_ascending: true
       filters:
         folders:
           - publication

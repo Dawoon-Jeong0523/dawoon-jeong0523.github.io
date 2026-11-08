@@ -2,6 +2,10 @@
 {{ $fill_image := .config.fill_image | default true }}
 {{ $is_publication := eq $item.Section "publication" }}
 {{ if $is_publication }}{{ $fill_image = false }}{{ end }}
+{{ $is_featured_card := false }}
+{{ if and $is_publication (reflect.IsMap .page) }}
+  {{ $is_featured_card = eq .page.id "papers" }}
+{{ end }}
 
 {{ $resource := partial "functions/get_featured_image.html" $item }}
 {{ $anchor := $item.Params.image.focal_point | default "Center" }}
@@ -39,11 +43,9 @@
   </div>
   {{end}}
   {{/* Journal marks are shown only in the homepage Featured Publications block. */}}
-  {{ if and $is_publication (reflect.IsMap .page) }}
-    {{ if eq .page.id "papers" }}
-      {{ with $item.Params.journal_logo }}
-        {{ partial "components/journal-logo" . }}
-      {{ end }}
+  {{ if $is_featured_card }}
+    {{ with $item.Params.journal_logo }}
+      {{ partial "components/journal-logo" . }}
     {{ end }}
   {{ end }}
   <div class="">
@@ -63,11 +65,15 @@
           </span></a>
       </h2>
       <!--          </div>-->
+      {{ if and $is_featured_card $item.Params.featured_finding }}
+      <p class="publication-finding text-gray-700 dark:text-gray-300">{{ $item.Params.featured_finding }}</p>
+      {{ else }}
       <div class="grow"><p class="mt-2 line-clamp-3 text-sm text-gray-500 dark:text-gray-400"><a
         href="{{ $link }}" {{ $target | safeHTMLAttr }}>
         {{ ($item.Params.summary | default $item.Summary) | plainify | htmlUnescape | chomp -}}
       </a></p>
       </div>
+      {{ end }}
       {{ if $is_publication }}
       {{/* Bibliographic years use publication metadata; accepted papers have no invented year. */}}
       {{ $bibliographyYear := "" }}
