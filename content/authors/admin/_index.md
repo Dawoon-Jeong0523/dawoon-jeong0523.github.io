@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Dawoon Jeong
+other_name: Dawoon Jung
 
 # Name pronunciation (optional)
 #name_pronunciation: Dawoon Jeong
@@ -230,6 +231,4 @@ My interdisciplinary background combines training in physics and engineering wit
 I am a Postdoctoral Scholar at the Knowledge Lab in the Department of Sociology, The University of Chicago, working with James Evans.
 
 I continue to collaborate with Hyejin Youn, my former PI and mentor, and with researchers at the Santa Fe Institute (SFI), Seoul National University (SNU), KDI School of Public Policy and Management, the Kellogg School of Management at Northwestern University, the Northwestern Institute on Complex Systems (NICO), UNIST, the University of Virginia, and Rikkyo University.
-
-I also publish as Dawoon Jung.
 
