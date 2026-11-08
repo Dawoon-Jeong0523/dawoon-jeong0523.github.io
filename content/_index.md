@@ -113,7 +113,7 @@ sections:
         - industrial-corporate-change
         - evolutionary-economics
         - technology-analysis
-      text: "Published and accepted articles. Author contribution notes are available on each paper's page."
+      text: ""
       count: 0
       filters:
         folders:
