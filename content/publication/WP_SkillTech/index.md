@@ -4,9 +4,11 @@ title: 'Skill–Technology Dependencies and Wage Premium in a Polarized Labor Ma
 authors:
   - Dawoon Jeong
   - Moh Hosseinioun
+  - Alireza Javadian Sabet
   - Hyejin Youn*
 
 author_notes:
+  - ''
   - ''
   - ''
   - 'Corresponding Author'
