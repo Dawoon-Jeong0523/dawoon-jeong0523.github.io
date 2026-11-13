@@ -1,0 +1,8 @@
+{{ with .File }}
+  {{ if eq .Path "news.md" }}
+    {{ with resources.Get "css/news.css" }}
+      {{ $style := . | minify | fingerprint }}
+      <link rel="stylesheet" href="{{ $style.RelPermalink }}" integrity="{{ $style.Data.Integrity }}" crossorigin="anonymous">
+    {{ end }}
+  {{ end }}
+{{ end }}

@@ -1,0 +1,13 @@
+/* Loaded only on the News landing page; matches the Talks page width. */
+#updates.blox-markdown > .max-w-prose,
+#media-coverage.blox-markdown > .max-w-prose {
+  width: 100%;
+  max-width: none;
+  padding-inline: clamp(1.5rem, 2.5vw, 3rem);
+}
+
+#updates.blox-markdown > .max-w-prose > .prose,
+#media-coverage.blox-markdown > .max-w-prose > .prose {
+  width: 100%;
+  max-width: none;
+}
